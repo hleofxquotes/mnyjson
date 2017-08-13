@@ -1,0 +1,1365 @@
+[ {
+  "_id" : 4913,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -24.95,
+  "category" : {
+    "_id" : 167,
+    "fullName" : "Bills:Telephone",
+    "name" : "Telephone"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-04-21T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 113,
+    "name" : "Adventure Works"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4914,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -1928.11,
+  "category" : {
+    "_id" : null,
+    "fullName" : null,
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097184,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000100000",
+    "flag" : 2097184,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : true,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4920,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -568.29,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer to Home Loan",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : "Principal",
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097218,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000001000010",
+    "flag" : 2097218,
+    "investment" : false,
+    "splitChild" : true,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : 18,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4922,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -1109.82,
+  "category" : {
+    "_id" : 213,
+    "fullName" : "Loan:Mortgage Interest",
+    "name" : "Mortgage Interest"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : "Interest",
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097216,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000001000000",
+    "flag" : 2097216,
+    "investment" : false,
+    "splitChild" : true,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4923,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer to Escrow Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097218,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000001000010",
+    "flag" : 2097218,
+    "investment" : false,
+    "splitChild" : true,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : 69,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4925,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -53.34,
+  "category" : {
+    "_id" : 161,
+    "fullName" : "Bills:Cable/Satellite Television",
+    "name" : "Cable/Satellite Television"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 104,
+    "name" : "City Power & Light"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4926,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -45.00,
+  "category" : {
+    "_id" : 165,
+    "fullName" : "Bills:Natural Gas/Oil",
+    "name" : "Natural Gas/Oil"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-01T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 161,
+    "name" : "The Gas Company"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4927,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -98.50,
+  "category" : {
+    "_id" : 338,
+    "fullName" : "EXPENSE:Dining Out",
+    "name" : "Dining Out"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-01T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : "Monthly wine tasting dinner",
+  "number" : null,
+  "payee" : {
+    "_id" : 115,
+    "name" : "Coho Vineyard & Winery"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4928,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : 1175.31,
+  "category" : {
+    "_id" : null,
+    "fullName" : null,
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Twice a month",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 19,
+    "name" : "AUTOMATIC DEPOSIT -- PAYROLL"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097184,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000100000",
+    "flag" : 2097184,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : true,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4941,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -87.22,
+  "category" : {
+    "_id" : 172,
+    "fullName" : "Bills:Cellular",
+    "name" : "Cellular"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-04T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : "Sale",
+  "number" : null,
+  "payee" : {
+    "_id" : 153,
+    "name" : "The Phone Company"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4942,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -49.95,
+  "category" : {
+    "_id" : 170,
+    "fullName" : "Bills:Health Club",
+    "name" : "Health Club"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-05T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : "Includes quarterly massage",
+  "number" : null,
+  "payee" : {
+    "_id" : 100,
+    "name" : "The Gym"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4943,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer to Woodgrove Bank Savings",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-05T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097154,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000010",
+    "flag" : 2097154,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : 68,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4945,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -179.88,
+  "category" : {
+    "_id" : 339,
+    "fullName" : "EXPENSE:Groceries",
+    "name" : "Groceries"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-06T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 120,
+    "name" : "Contoso Ltd."
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4946,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -62.88,
+  "category" : {
+    "_id" : 168,
+    "fullName" : "Bills:Water & Sewer",
+    "name" : "Water & Sewer"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-07T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 90,
+    "name" : "The Water Company"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4947,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -135.00,
+  "category" : {
+    "_id" : 162,
+    "fullName" : "Bills:Electricity",
+    "name" : "Electricity"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-13T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 99,
+    "name" : "Electric Company"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4948,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : 1345.86,
+  "category" : {
+    "_id" : 149,
+    "fullName" : "INCOME:Wages & Salary",
+    "name" : "Wages & Salary"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-20T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 19,
+    "name" : "AUTOMATIC DEPOSIT -- PAYROLL"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097152,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000000",
+    "flag" : 2097152,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4949,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -350.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer to Woodgrove Bank Credit Card",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-20T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Monthly",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 2,
+    "name" : "Woodgrove Bank Credit Card"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097154,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000010",
+    "flag" : 2097154,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : 39,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4951,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : 1616.67,
+  "category" : {
+    "_id" : 153,
+    "fullName" : "Wages & Salary:Gross Pay",
+    "name" : "Gross Pay"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Twice a month",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 19,
+    "name" : "AUTOMATIC DEPOSIT -- PAYROLL"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097216,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000001000000",
+    "flag" : 2097216,
+    "investment" : false,
+    "splitChild" : true,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4952,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -225.00,
+  "category" : {
+    "_id" : 222,
+    "fullName" : "Taxes:Federal Income Tax",
+    "name" : "Federal Income Tax"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Twice a month",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 19,
+    "name" : "AUTOMATIC DEPOSIT -- PAYROLL"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097216,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000001000000",
+    "flag" : 2097216,
+    "investment" : false,
+    "splitChild" : true,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4953,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -113.37,
+  "category" : {
+    "_id" : 227,
+    "fullName" : "Taxes:Social Security Tax",
+    "name" : "Social Security Tax"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Twice a month",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 19,
+    "name" : "AUTOMATIC DEPOSIT -- PAYROLL"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097216,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000001000000",
+    "flag" : 2097216,
+    "investment" : false,
+    "splitChild" : true,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4954,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -38.32,
+  "category" : {
+    "_id" : 229,
+    "fullName" : "Taxes:Medicare Tax",
+    "name" : "Medicare Tax"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Twice a month",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 19,
+    "name" : "AUTOMATIC DEPOSIT -- PAYROLL"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097216,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000001000000",
+    "flag" : 2097216,
+    "investment" : false,
+    "splitChild" : true,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4955,
+  "account" : {
+    "_id" : 42,
+    "name" : "Woodgrove Bank Checking"
+  },
+  "amount" : -64.67,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer to Charlie's 401(k) (Contributions)",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Twice a month",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : "401k withdrawl",
+  "number" : null,
+  "payee" : {
+    "_id" : 19,
+    "name" : "AUTOMATIC DEPOSIT -- PAYROLL"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097218,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000001000010",
+    "flag" : 2097218,
+    "investment" : false,
+    "splitChild" : true,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : 17,
+    "xferTransactionId" : null
+  }
+} ]

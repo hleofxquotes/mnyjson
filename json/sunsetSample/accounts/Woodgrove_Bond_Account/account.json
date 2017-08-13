@@ -1,0 +1,83 @@
+{
+  "_id" : 66,
+  "accountType" : "INVESTMENT",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 4244.65,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Woodgrove Bond Account",
+  "relatedToAccount" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)",
+    "accountType" : "BANKING",
+    "startingBalance" : 0.00,
+    "currentBalance" : -57916.20
+  },
+  "retirement" : false,
+  "securityHoldings" : [ {
+    "marketValue" : 9975.00,
+    "price" : 1.00,
+    "quantity" : 10000.000,
+    "security" : {
+      "_id" : 112,
+      "name" : "New Bond",
+      "symbol" : null
+    }
+  }, {
+    "marketValue" : 986.09,
+    "price" : 0.99,
+    "quantity" : 1000.000,
+    "security" : {
+      "_id" : 89,
+      "name" : "Proseware, Inc.",
+      "symbol" : null
+    }
+  }, {
+    "marketValue" : 20537.60,
+    "price" : 1.03,
+    "quantity" : 20000.000,
+    "security" : {
+      "_id" : 87,
+      "name" : "The Phone Company",
+      "symbol" : null
+    }
+  }, {
+    "marketValue" : 10000.00,
+    "price" : 1.00,
+    "quantity" : 10000.000,
+    "security" : {
+      "_id" : 57,
+      "name" : "Wide World Importers",
+      "symbol" : null
+    }
+  }, {
+    "marketValue" : 15637.50,
+    "price" : 1.04,
+    "quantity" : 15000.000,
+    "security" : {
+      "_id" : 90,
+      "name" : "Wingtip Toys",
+      "symbol" : null
+    }
+  }, {
+    "marketValue" : 5024.66,
+    "price" : 1.00,
+    "quantity" : 5024.660,
+    "security" : {
+      "_id" : 94,
+      "name" : "Woodgrove Money Market",
+      "symbol" : null
+    }
+  } ],
+  "startingBalance" : 0.00,
+  "transactions" : {
+    "count" : 14
+  }
+}

@@ -1,0 +1,847 @@
+[ {
+  "_id" : 310,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Xfer from Deleted Account",
+  "parentId" : 130
+}, {
+  "_id" : 311,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Xfer to Deleted Account",
+  "parentId" : 131
+}, {
+  "_id" : 312,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Not an Expense",
+  "parentId" : 130
+}, {
+  "_id" : 313,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Income/Interest",
+  "parentId" : 130
+}, {
+  "_id" : 314,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Cell Phone",
+  "parentId" : 160
+}, {
+  "_id" : 315,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Hobbies/Leisure",
+  "parentId" : 131
+}, {
+  "_id" : 316,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Books & Magazines",
+  "parentId" : 315
+}, {
+  "_id" : 317,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Cultural Events",
+  "parentId" : 315
+}, {
+  "_id" : 318,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Entertaining",
+  "parentId" : 315
+}, {
+  "_id" : 319,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Movies & Video Rentals",
+  "parentId" : 315
+}, {
+  "_id" : 320,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Sporting Events",
+  "parentId" : 315
+}, {
+  "_id" : 321,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Sporting Goods",
+  "parentId" : 315
+}, {
+  "_id" : 322,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Tapes & CDs",
+  "parentId" : 315
+}, {
+  "_id" : 323,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Toys & Games",
+  "parentId" : 315
+}, {
+  "_id" : 324,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Travel/Vacation",
+  "parentId" : 131
+}, {
+  "_id" : 325,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Lodging",
+  "parentId" : 324
+}, {
+  "_id" : 326,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Travel",
+  "parentId" : 324
+}, {
+  "_id" : 327,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Credit Card Payments/Transfers",
+  "parentId" : 131
+}, {
+  "_id" : 328,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Home Improvement",
+  "parentId" : 131
+}, {
+  "_id" : 329,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Mortgage/Rent",
+  "parentId" : 131
+}, {
+  "_id" : 330,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Phone/Wireless",
+  "parentId" : 131
+}, {
+  "_id" : 331,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Services/Memberships",
+  "parentId" : 131
+}, {
+  "_id" : 332,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Utilities",
+  "parentId" : 131
+}, {
+  "_id" : 333,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Fees",
+  "parentId" : 131
+}, {
+  "_id" : 334,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Children/Toys",
+  "parentId" : 131
+}, {
+  "_id" : 335,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Child Support",
+  "parentId" : 334
+}, {
+  "_id" : 336,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Daycare",
+  "parentId" : 334
+}, {
+  "_id" : 337,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Entertainment",
+  "parentId" : 131
+}, {
+  "_id" : 338,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Dining Out",
+  "parentId" : 131
+}, {
+  "_id" : 339,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Groceries",
+  "parentId" : 131
+}, {
+  "_id" : 340,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Alimony",
+  "parentId" : 131
+}, {
+  "_id" : 130,
+  "classificationId" : 0,
+  "level" : 0,
+  "name" : "INCOME",
+  "parentId" : null
+}, {
+  "_id" : 131,
+  "classificationId" : 0,
+  "level" : 0,
+  "name" : "EXPENSE",
+  "parentId" : null
+}, {
+  "_id" : 132,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Investment Income",
+  "parentId" : 130
+}, {
+  "_id" : 133,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Dividends",
+  "parentId" : 132
+}, {
+  "_id" : 134,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Interest",
+  "parentId" : 132
+}, {
+  "_id" : 135,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Capital Gains",
+  "parentId" : 132
+}, {
+  "_id" : 136,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Tax-Exempt Interest",
+  "parentId" : 132
+}, {
+  "_id" : 137,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Other Income",
+  "parentId" : 130
+}, {
+  "_id" : 138,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Child Support Received",
+  "parentId" : 137
+}, {
+  "_id" : 139,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Gifts Received",
+  "parentId" : 137
+}, {
+  "_id" : 140,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Loan Principal Received",
+  "parentId" : 137
+}, {
+  "_id" : 141,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Lotteries",
+  "parentId" : 137
+}, {
+  "_id" : 142,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "State & Local Tax Refund",
+  "parentId" : 137
+}, {
+  "_id" : 143,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Unemployment Compensation",
+  "parentId" : 137
+}, {
+  "_id" : 144,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Employee Stock Option",
+  "parentId" : 137
+}, {
+  "_id" : 145,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Retirement Income",
+  "parentId" : 130
+}, {
+  "_id" : 146,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "IRA Distributions",
+  "parentId" : 145
+}, {
+  "_id" : 147,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Pensions & Annuities",
+  "parentId" : 145
+}, {
+  "_id" : 148,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Social Security Benefits",
+  "parentId" : 145
+}, {
+  "_id" : 149,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Wages & Salary",
+  "parentId" : 130
+}, {
+  "_id" : 150,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Bonus",
+  "parentId" : 149
+}, {
+  "_id" : 151,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Commission",
+  "parentId" : 149
+}, {
+  "_id" : 152,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Employer Matching",
+  "parentId" : 149
+}, {
+  "_id" : 153,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Gross Pay",
+  "parentId" : 149
+}, {
+  "_id" : 154,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Net Pay",
+  "parentId" : 149
+}, {
+  "_id" : 155,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Overtime",
+  "parentId" : 149
+}, {
+  "_id" : 156,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Automobile",
+  "parentId" : 131
+}, {
+  "_id" : 157,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Gasoline",
+  "parentId" : 156
+}, {
+  "_id" : 158,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Maintenance",
+  "parentId" : 156
+}, {
+  "_id" : 159,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Car Payment",
+  "parentId" : 156
+}, {
+  "_id" : 160,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Bills",
+  "parentId" : 131
+}, {
+  "_id" : 161,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Cable/Satellite Television",
+  "parentId" : 160
+}, {
+  "_id" : 162,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Electricity",
+  "parentId" : 160
+}, {
+  "_id" : 163,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Garbage & Recycle",
+  "parentId" : 160
+}, {
+  "_id" : 164,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Homeowner's Dues",
+  "parentId" : 160
+}, {
+  "_id" : 165,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Natural Gas/Oil",
+  "parentId" : 160
+}, {
+  "_id" : 166,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Rent",
+  "parentId" : 160
+}, {
+  "_id" : 167,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Telephone",
+  "parentId" : 160
+}, {
+  "_id" : 168,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Water & Sewer",
+  "parentId" : 160
+}, {
+  "_id" : 169,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Online/Internet Service",
+  "parentId" : 160
+}, {
+  "_id" : 170,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Health Club",
+  "parentId" : 160
+}, {
+  "_id" : 171,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Membership Fees",
+  "parentId" : 160
+}, {
+  "_id" : 172,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Cellular",
+  "parentId" : 160
+}, {
+  "_id" : 173,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Newspaper",
+  "parentId" : 160
+}, {
+  "_id" : 174,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Mortgage Payment",
+  "parentId" : 160
+}, {
+  "_id" : 175,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Other Loan Payment",
+  "parentId" : 160
+}, {
+  "_id" : 176,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Student Loan Payment",
+  "parentId" : 160
+}, {
+  "_id" : 177,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Cash Withdrawal",
+  "parentId" : 131
+}, {
+  "_id" : 178,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Charitable Donations",
+  "parentId" : 131
+}, {
+  "_id" : 179,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Childcare",
+  "parentId" : 131
+}, {
+  "_id" : 180,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Clothing",
+  "parentId" : 131
+}, {
+  "_id" : 181,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Education",
+  "parentId" : 131
+}, {
+  "_id" : 182,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Books",
+  "parentId" : 181
+}, {
+  "_id" : 183,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Fees",
+  "parentId" : 181
+}, {
+  "_id" : 184,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Tuition",
+  "parentId" : 181
+}, {
+  "_id" : 185,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Food",
+  "parentId" : 131
+}, {
+  "_id" : 188,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Gifts",
+  "parentId" : 131
+}, {
+  "_id" : 189,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Healthcare",
+  "parentId" : 131
+}, {
+  "_id" : 190,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Dental",
+  "parentId" : 189
+}, {
+  "_id" : 191,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Eyecare",
+  "parentId" : 189
+}, {
+  "_id" : 192,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Hospital",
+  "parentId" : 189
+}, {
+  "_id" : 193,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Physician",
+  "parentId" : 189
+}, {
+  "_id" : 194,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Prescriptions",
+  "parentId" : 189
+}, {
+  "_id" : 195,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Insurance",
+  "parentId" : 131
+}, {
+  "_id" : 196,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Automobile",
+  "parentId" : 195
+}, {
+  "_id" : 197,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Health",
+  "parentId" : 195
+}, {
+  "_id" : 198,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Homeowner's/Renter's",
+  "parentId" : 195
+}, {
+  "_id" : 199,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Life",
+  "parentId" : 195
+}, {
+  "_id" : 200,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Job Expense",
+  "parentId" : 131
+}, {
+  "_id" : 201,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Non-Reimbursed",
+  "parentId" : 200
+}, {
+  "_id" : 202,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Reimbursed",
+  "parentId" : 200
+}, {
+  "_id" : 203,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Leisure",
+  "parentId" : 131
+}, {
+  "_id" : 204,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Books & Magazines",
+  "parentId" : 203
+}, {
+  "_id" : 205,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Cultural Events",
+  "parentId" : 203
+}, {
+  "_id" : 206,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Entertaining",
+  "parentId" : 203
+}, {
+  "_id" : 207,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Movies & Video Rentals",
+  "parentId" : 203
+}, {
+  "_id" : 208,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Sporting Events",
+  "parentId" : 203
+}, {
+  "_id" : 209,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Sporting Goods",
+  "parentId" : 203
+}, {
+  "_id" : 210,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Tapes & CDs",
+  "parentId" : 203
+}, {
+  "_id" : 211,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Toys & Games",
+  "parentId" : 203
+}, {
+  "_id" : 212,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Loan",
+  "parentId" : 131
+}, {
+  "_id" : 213,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Mortgage Interest",
+  "parentId" : 212
+}, {
+  "_id" : 214,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Loan Interest",
+  "parentId" : 212
+}, {
+  "_id" : 215,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Student Loan Interest",
+  "parentId" : 212
+}, {
+  "_id" : 216,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Miscellaneous",
+  "parentId" : 131
+}, {
+  "_id" : 217,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Pet Care",
+  "parentId" : 131
+}, {
+  "_id" : 218,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Food",
+  "parentId" : 217
+}, {
+  "_id" : 219,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Supplies",
+  "parentId" : 217
+}, {
+  "_id" : 220,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Veterinarian",
+  "parentId" : 217
+}, {
+  "_id" : 221,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Taxes",
+  "parentId" : 131
+}, {
+  "_id" : 222,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Federal Income Tax",
+  "parentId" : 221
+}, {
+  "_id" : 223,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Federal Income Tax-Previous year",
+  "parentId" : 221
+}, {
+  "_id" : 224,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Local Income Tax",
+  "parentId" : 221
+}, {
+  "_id" : 225,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Other Taxes",
+  "parentId" : 221
+}, {
+  "_id" : 226,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Real Estate Taxes",
+  "parentId" : 221
+}, {
+  "_id" : 227,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Social Security Tax",
+  "parentId" : 221
+}, {
+  "_id" : 228,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "State Income Tax",
+  "parentId" : 221
+}, {
+  "_id" : 229,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Medicare Tax",
+  "parentId" : 221
+}, {
+  "_id" : 230,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "State/Provincial",
+  "parentId" : 221
+}, {
+  "_id" : 231,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Vacation",
+  "parentId" : 131
+}, {
+  "_id" : 232,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Lodging",
+  "parentId" : 231
+}, {
+  "_id" : 233,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Travel",
+  "parentId" : 231
+}, {
+  "_id" : 234,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Bank Charges",
+  "parentId" : 131
+}, {
+  "_id" : 235,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Interest Paid",
+  "parentId" : 234
+}, {
+  "_id" : 236,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Service Charge",
+  "parentId" : 234
+}, {
+  "_id" : 237,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Household",
+  "parentId" : 131
+}, {
+  "_id" : 238,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Furnishings",
+  "parentId" : 237
+}, {
+  "_id" : 239,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "House Cleaning",
+  "parentId" : 237
+}, {
+  "_id" : 240,
+  "classificationId" : 0,
+  "level" : 2,
+  "name" : "Yard Service",
+  "parentId" : 237
+}, {
+  "_id" : 241,
+  "classificationId" : 0,
+  "level" : 1,
+  "name" : "Personal Care",
+  "parentId" : 131
+} ]

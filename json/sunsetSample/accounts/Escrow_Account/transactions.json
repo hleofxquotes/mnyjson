@@ -1,0 +1,7069 @@
+[ {
+  "_id" : 1986,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-08-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 1985
+  }
+}, {
+  "_id" : 1992,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-09-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 1991
+  }
+}, {
+  "_id" : 2023,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : -900.00,
+  "category" : {
+    "_id" : 198,
+    "fullName" : "Insurance:Homeowner's/Renter's",
+    "name" : "Homeowner's/Renter's"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-10-14T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : "Annual Premium",
+  "number" : null,
+  "payee" : {
+    "_id" : 117,
+    "name" : "Humongous Insurance"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 0,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000000",
+    "flag" : 0,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 2642,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-10-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2641
+  }
+}, {
+  "_id" : 2648,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-11-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2647
+  }
+}, {
+  "_id" : 2402,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-12-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2359302,
+  "transactionInfo" : {
+    "binaryString" : "1001000000000000000110",
+    "flag" : 2359302,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2401
+  }
+}, {
+  "_id" : 2654,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-12-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2653
+  }
+}, {
+  "_id" : 2660,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-01-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2659
+  }
+}, {
+  "_id" : 2666,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2665
+  }
+}, {
+  "_id" : 2672,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-03-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2671
+  }
+}, {
+  "_id" : 2678,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2677
+  }
+}, {
+  "_id" : 2754,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-05-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2753
+  }
+}, {
+  "_id" : 2863,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2862
+  }
+}, {
+  "_id" : 2869,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-07-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2868
+  }
+}, {
+  "_id" : 2875,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-08-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2874
+  }
+}, {
+  "_id" : 2881,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-09-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2880
+  }
+}, {
+  "_id" : 2887,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-10-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2886
+  }
+}, {
+  "_id" : 2893,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-11-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2892
+  }
+}, {
+  "_id" : 2899,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-12-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 2898
+  }
+}, {
+  "_id" : 3114,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-01-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3113
+  }
+}, {
+  "_id" : 3120,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3119
+  }
+}, {
+  "_id" : 3126,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-03-29T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3125
+  }
+}, {
+  "_id" : 3223,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-04-29T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3222
+  }
+}, {
+  "_id" : 3229,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-05-29T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3228
+  }
+}, {
+  "_id" : 3235,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-06-29T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3234
+  }
+}, {
+  "_id" : 3241,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-07-29T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3240
+  }
+}, {
+  "_id" : 3247,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-08-29T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3246
+  }
+}, {
+  "_id" : 3253,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-09-29T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3252
+  }
+}, {
+  "_id" : 3259,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-10-29T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3258
+  }
+}, {
+  "_id" : 3265,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-11-29T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3264
+  }
+}, {
+  "_id" : 3271,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-12-29T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3270
+  }
+}, {
+  "_id" : 3277,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-01-29T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3276
+  }
+}, {
+  "_id" : 3283,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3282
+  }
+}, {
+  "_id" : 3289,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-03-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3288
+  }
+}, {
+  "_id" : 3295,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3294
+  }
+}, {
+  "_id" : 3629,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-05-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3628
+  }
+}, {
+  "_id" : 3635,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3634
+  }
+}, {
+  "_id" : 3832,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-07-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3831
+  }
+}, {
+  "_id" : 3838,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-08-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3837
+  }
+}, {
+  "_id" : 3844,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-09-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3843
+  }
+}, {
+  "_id" : 3850,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-10-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3849
+  }
+}, {
+  "_id" : 3856,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-11-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3855
+  }
+}, {
+  "_id" : 3862,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-12-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3861
+  }
+}, {
+  "_id" : 3868,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-01-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3867
+  }
+}, {
+  "_id" : 3918,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3917
+  }
+}, {
+  "_id" : 3924,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-03-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3923
+  }
+}, {
+  "_id" : 3930,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3929
+  }
+}, {
+  "_id" : 3936,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-05-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3935
+  }
+}, {
+  "_id" : 3942,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 3941
+  }
+}, {
+  "_id" : 4180,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-07-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4179
+  }
+}, {
+  "_id" : 4186,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-08-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4185
+  }
+}, {
+  "_id" : 4192,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-09-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4191
+  }
+}, {
+  "_id" : 4198,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-10-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4197
+  }
+}, {
+  "_id" : 4204,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-11-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4203
+  }
+}, {
+  "_id" : 4210,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-12-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4209
+  }
+}, {
+  "_id" : 4216,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4215
+  }
+}, {
+  "_id" : 4222,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4221
+  }
+}, {
+  "_id" : 4434,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-03-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4433
+  }
+}, {
+  "_id" : 4445,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4444
+  }
+}, {
+  "_id" : 4821,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-05-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4820
+  }
+}, {
+  "_id" : 4827,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4826
+  }
+}, {
+  "_id" : 4833,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-07-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4832
+  }
+}, {
+  "_id" : 4839,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-08-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4838
+  }
+}, {
+  "_id" : 4845,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-09-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4844
+  }
+}, {
+  "_id" : 4851,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-10-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4850
+  }
+}, {
+  "_id" : 4857,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-11-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4856
+  }
+}, {
+  "_id" : 4863,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-12-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4862
+  }
+}, {
+  "_id" : 4869,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-01-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4868
+  }
+}, {
+  "_id" : 4875,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4874
+  }
+}, {
+  "_id" : 4881,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-03-29T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 4880
+  }
+}, {
+  "_id" : 1974,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : null,
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16390,
+  "transactionInfo" : {
+    "binaryString" : "0100000000000110",
+    "flag" : 16390,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 6123,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6122
+  }
+}, {
+  "_id" : 6129,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6128
+  }
+}, {
+  "_id" : 6135,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6134
+  }
+}, {
+  "_id" : 6141,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-07-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6140
+  }
+}, {
+  "_id" : 6147,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-08-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6146
+  }
+}, {
+  "_id" : 6153,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-09-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6152
+  }
+}, {
+  "_id" : 6159,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-10-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6158
+  }
+}, {
+  "_id" : 6165,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-11-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6164
+  }
+}, {
+  "_id" : 6171,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-12-31T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6170
+  }
+}, {
+  "_id" : 6177,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-01-31T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6176
+  }
+}, {
+  "_id" : 6183,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6182
+  }
+}, {
+  "_id" : 6189,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-03-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6188
+  }
+}, {
+  "_id" : 6195,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6194
+  }
+}, {
+  "_id" : 6201,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-05-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6200
+  }
+}, {
+  "_id" : 6207,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6206
+  }
+}, {
+  "_id" : 6213,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-07-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6212
+  }
+}, {
+  "_id" : 6219,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-08-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6218
+  }
+}, {
+  "_id" : 6225,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-09-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6224
+  }
+}, {
+  "_id" : 6231,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-10-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6230
+  }
+}, {
+  "_id" : 6237,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-11-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6236
+  }
+}, {
+  "_id" : 6243,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2009-12-31T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6242
+  }
+}, {
+  "_id" : 6249,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-01-31T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6248
+  }
+}, {
+  "_id" : 6255,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6254
+  }
+}, {
+  "_id" : 6261,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-03-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6260
+  }
+}, {
+  "_id" : 6267,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6266
+  }
+}, {
+  "_id" : 6273,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-05-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6272
+  }
+}, {
+  "_id" : 6279,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6278
+  }
+}, {
+  "_id" : 6285,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-07-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6284
+  }
+}, {
+  "_id" : 6291,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-08-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6290
+  }
+}, {
+  "_id" : 6297,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-09-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6296
+  }
+}, {
+  "_id" : 6303,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-10-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6302
+  }
+}, {
+  "_id" : 6309,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-11-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6308
+  }
+}, {
+  "_id" : 6315,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2010-12-31T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6314
+  }
+}, {
+  "_id" : 6321,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-01-31T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6320
+  }
+}, {
+  "_id" : 6327,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6326
+  }
+}, {
+  "_id" : 6333,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-03-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6332
+  }
+}, {
+  "_id" : 6339,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6338
+  }
+}, {
+  "_id" : 6345,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-05-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6344
+  }
+}, {
+  "_id" : 6351,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6350
+  }
+}, {
+  "_id" : 6357,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-07-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6356
+  }
+}, {
+  "_id" : 6363,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-08-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6362
+  }
+}, {
+  "_id" : 6369,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-09-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6368
+  }
+}, {
+  "_id" : 6375,
+  "account" : {
+    "_id" : 69,
+    "name" : "Escrow Account"
+  },
+  "amount" : 250.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2011-10-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : 1,
+    "name" : "Mortgage Co"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : 6374
+  }
+} ]

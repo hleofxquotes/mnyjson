@@ -1,0 +1,83 @@
+{
+  "_id" : 72,
+  "accountType" : "INVESTMENT",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 19974.00,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Charlie & May’s Joint Investment",
+  "relatedToAccount" : {
+    "_id" : 73,
+    "name" : "Charlie & May’s Joint Inv (Cash)",
+    "accountType" : "BANKING",
+    "startingBalance" : 0.00,
+    "currentBalance" : -10004.15
+  },
+  "retirement" : false,
+  "securityHoldings" : [ {
+    "marketValue" : 4428.00,
+    "price" : 36.90,
+    "quantity" : 120.000,
+    "security" : {
+      "_id" : 103,
+      "name" : "McDonalds",
+      "symbol" : null
+    }
+  }, {
+    "marketValue" : 5982.00,
+    "price" : 29.91,
+    "quantity" : 200.000,
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    }
+  }, {
+    "marketValue" : 6510.50,
+    "price" : 44.90,
+    "quantity" : 145.000,
+    "security" : {
+      "_id" : 115,
+      "name" : "Oakmark Fund",
+      "symbol" : null
+    }
+  }, {
+    "marketValue" : 3388.75,
+    "price" : 27.11,
+    "quantity" : 125.000,
+    "security" : {
+      "_id" : 104,
+      "name" : "Toys R Us",
+      "symbol" : null
+    }
+  }, {
+    "marketValue" : 4473.50,
+    "price" : 38.90,
+    "quantity" : 115.000,
+    "security" : {
+      "_id" : 102,
+      "name" : "Walt Disney Company",
+      "symbol" : null
+    }
+  }, {
+    "marketValue" : 5195.40,
+    "price" : 37.11,
+    "quantity" : 140.000,
+    "security" : {
+      "_id" : 116,
+      "name" : "White Oak Growth Stock",
+      "symbol" : null
+    }
+  } ],
+  "startingBalance" : 0.00,
+  "transactions" : {
+    "count" : 11
+  }
+}

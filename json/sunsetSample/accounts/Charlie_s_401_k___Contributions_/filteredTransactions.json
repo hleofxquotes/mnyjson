@@ -1,0 +1,63 @@
+[ {
+  "_id" : 4956,
+  "account" : {
+    "_id" : 17,
+    "name" : "Charlie's 401(k) (Contributions)"
+  },
+  "amount" : 64.67,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Checking",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-05-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Twice a month",
+    "recurring" : true,
+    "type" : 3
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : "401k withdrawl",
+  "number" : null,
+  "payee" : {
+    "_id" : 19,
+    "name" : "AUTOMATIC DEPOSIT -- PAYROLL"
+  },
+  "reconciled" : false,
+  "recurring" : true,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 2097158,
+  "transactionInfo" : {
+    "binaryString" : "1000000000000000000110",
+    "flag" : 2097158,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : true,
+  "xferInfo" : {
+    "xferAccountId" : 42,
+    "xferTransactionId" : null
+  }
+} ]

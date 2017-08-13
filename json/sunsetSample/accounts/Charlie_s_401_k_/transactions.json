@@ -1,0 +1,351 @@
+[ {
+  "_id" : 616,
+  "account" : {
+    "_id" : 16,
+    "name" : "Charlie's 401(k)"
+  },
+  "amount" : 3416.40,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-07-01T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 56,
+      "name" : "Litware, Inc.",
+      "symbol" : "LITW"
+    },
+    "transaction" : {
+      "_id" : 616,
+      "price" : 21.9,
+      "quantity" : 156.0
+    }
+  },
+  "memo" : "401(k) or 403(b) statement update: 12/29/2000",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 620,
+  "account" : {
+    "_id" : 16,
+    "name" : "Charlie's 401(k)"
+  },
+  "amount" : 11928.00,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-07-15T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 60,
+      "name" : "Trey Research",
+      "symbol" : "TREY"
+    },
+    "transaction" : {
+      "_id" : 620,
+      "price" : 994.0,
+      "quantity" : 12.0
+    }
+  },
+  "memo" : "401(k) or 403(b) statement update: 12/29/2000",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 619,
+  "account" : {
+    "_id" : 16,
+    "name" : "Charlie's 401(k)"
+  },
+  "amount" : 5870.78,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-09-15T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 59,
+      "name" : "Lucerne Publishing",
+      "symbol" : "LUPB"
+    },
+    "transaction" : {
+      "_id" : 619,
+      "price" : 11.14,
+      "quantity" : 527.0
+    }
+  },
+  "memo" : "401(k) or 403(b) statement update: 12/29/2000",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 2772,
+  "account" : {
+    "_id" : 16,
+    "name" : "Charlie's 401(k)"
+  },
+  "amount" : 1034.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-03-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    },
+    "transaction" : {
+      "_id" : 2772,
+      "price" : 23.5,
+      "quantity" : 44.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 617,
+  "account" : {
+    "_id" : 16,
+    "name" : "Charlie's 401(k)"
+  },
+  "amount" : 2500.00,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-07-15T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 57,
+      "name" : "Wide World Importers",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 617,
+      "price" : 1.0,
+      "quantity" : 2500.0
+    }
+  },
+  "memo" : "401(k) or 403(b) statement update: 12/29/2000",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+} ]

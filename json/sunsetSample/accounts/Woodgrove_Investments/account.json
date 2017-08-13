@@ -1,0 +1,74 @@
+{
+  "_id" : 2,
+  "accountType" : "INVESTMENT",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 5755.42,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Woodgrove Investments",
+  "relatedToAccount" : {
+    "_id" : 3,
+    "name" : "Woodgrove Investments (Cash)",
+    "accountType" : "BANKING",
+    "startingBalance" : 0.00,
+    "currentBalance" : -1594.62
+  },
+  "retirement" : false,
+  "securityHoldings" : [ {
+    "marketValue" : 0.03,
+    "price" : 0.00,
+    "quantity" : 250.000,
+    "security" : {
+      "_id" : 68,
+      "name" : "Coho Winery",
+      "symbol" : "COHO"
+    }
+  }, {
+    "marketValue" : 3649.00,
+    "price" : 72.98,
+    "quantity" : 50.000,
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    }
+  }, {
+    "marketValue" : 3525.00,
+    "price" : 23.50,
+    "quantity" : 150.000,
+    "security" : {
+      "_id" : 69,
+      "name" : "Fabrikam, Inc.",
+      "symbol" : "FABRI"
+    }
+  }, {
+    "marketValue" : 89.73,
+    "price" : 29.91,
+    "quantity" : 3.000,
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    }
+  }, {
+    "marketValue" : 86.28,
+    "price" : 1.00,
+    "quantity" : 86.280,
+    "security" : {
+      "_id" : 105,
+      "name" : "Woodgrove Money Market Fund",
+      "symbol" : "WGMXX"
+    }
+  } ],
+  "startingBalance" : 0.00,
+  "transactions" : {
+    "count" : 44
+  }
+}

@@ -1,0 +1,141 @@
+[ {
+  "_id" : 4894,
+  "account" : {
+    "_id" : 77,
+    "name" : "Commodities"
+  },
+  "amount" : 1910.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 121,
+      "name" : "Heating Oil",
+      "symbol" : "-HO"
+    },
+    "transaction" : {
+      "_id" : 4894,
+      "price" : 1.91,
+      "quantity" : 1000.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 78,
+    "xferTransactionId" : 4895
+  }
+}, {
+  "_id" : 4896,
+  "account" : {
+    "_id" : 77,
+    "name" : "Commodities"
+  },
+  "amount" : 6835.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 122,
+      "name" : "Gold",
+      "symbol" : "-GC"
+    },
+    "transaction" : {
+      "_id" : 4896,
+      "price" : 683.5,
+      "quantity" : 10.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 78,
+    "xferTransactionId" : 4897
+  }
+} ]

@@ -1,0 +1,869 @@
+[ {
+  "_id" : 1938,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : -1018.53,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-08-16T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1937
+  }
+}, {
+  "_id" : 1950,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : 320.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-02-13T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1949
+  }
+}, {
+  "_id" : 1934,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : -5024.66,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-07-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1933
+  }
+}, {
+  "_id" : 1936,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : -20614.85,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-08-16T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1935
+  }
+}, {
+  "_id" : 1940,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : -10020.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-08-16T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1939
+  }
+}, {
+  "_id" : 1964,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : 320.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-08-16T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1963
+  }
+}, {
+  "_id" : 1944,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : 345.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-08-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1943
+  }
+}, {
+  "_id" : 1946,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : 745.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-10-12T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1945
+  }
+}, {
+  "_id" : 1956,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : 345.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-03-02T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1955
+  }
+}, {
+  "_id" : 1958,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : 745.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-04-13T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1957
+  }
+}, {
+  "_id" : 1970,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : -10155.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-04-23T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1969
+  }
+}, {
+  "_id" : 1960,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : 1172.50,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-05-16T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1959
+  }
+}, {
+  "_id" : 1966,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : -16130.16,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-07-17T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1965
+  }
+}, {
+  "_id" : 1968,
+  "account" : {
+    "_id" : 67,
+    "name" : "Woodgrove Bond Account (Cash)"
+  },
+  "amount" : 1054.50,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bond Account",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-07-17T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 66,
+    "xferTransactionId" : 1967
+  }
+} ]

@@ -1,0 +1,29 @@
+{
+  "_id" : 80,
+  "accountType" : "BANKING",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 2310.00,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "ETF Brokerage Account (Cash)",
+  "relatedToAccount" : {
+    "_id" : 79,
+    "name" : "ETF Brokerage Account",
+    "accountType" : "INVESTMENT",
+    "startingBalance" : 0.00,
+    "currentBalance" : 3350.00
+  },
+  "retirement" : false,
+  "securityHoldings" : null,
+  "startingBalance" : 0.00,
+  "transactions" : {
+    "count" : 7
+  }
+}

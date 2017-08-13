@@ -1,0 +1,29 @@
+{
+  "_id" : 18,
+  "accountType" : "LOAN",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : -149122.08,
+  "filteredTransactions" : {
+    "count" : 1
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Home Loan",
+  "relatedToAccount" : {
+    "_id" : 19,
+    "name" : "Primary Residence",
+    "accountType" : "ASSET",
+    "startingBalance" : 355000.00,
+    "currentBalance" : null
+  },
+  "retirement" : false,
+  "securityHoldings" : null,
+  "startingBalance" : -240000.00,
+  "transactions" : {
+    "count" : 240
+  }
+}

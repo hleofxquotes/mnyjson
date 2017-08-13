@@ -1,0 +1,23 @@
+{
+  "_id" : 69,
+  "accountType" : "ASSET",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 28100.00,
+  "filteredTransactions" : {
+    "count" : 1
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Escrow Account",
+  "relatedToAccount" : null,
+  "retirement" : false,
+  "securityHoldings" : null,
+  "startingBalance" : 1000.00,
+  "transactions" : {
+    "count" : 114
+  }
+}

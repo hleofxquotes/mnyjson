@@ -1,0 +1,187 @@
+[ {
+  "_id" : 4898,
+  "account" : {
+    "_id" : 78,
+    "name" : "Commodities (Cash)"
+  },
+  "amount" : 9000.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Woodgrove Bank Savings",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-04-25T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : "Fund commodity trading",
+  "number" : null,
+  "payee" : {
+    "_id" : 164,
+    "name" : "Commodities"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 68,
+    "xferTransactionId" : 4899
+  }
+}, {
+  "_id" : 4895,
+  "account" : {
+    "_id" : 78,
+    "name" : "Commodities (Cash)"
+  },
+  "amount" : -1910.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Commodities",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 77,
+    "xferTransactionId" : 4894
+  }
+}, {
+  "_id" : 4897,
+  "account" : {
+    "_id" : 78,
+    "name" : "Commodities (Cash)"
+  },
+  "amount" : -6835.00,
+  "category" : {
+    "_id" : null,
+    "fullName" : "Transfer from Commodities",
+    "name" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-04-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : false,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "ACTIVITY_UNKNOWN",
+      "type" : -1
+    },
+    "security" : null,
+    "transaction" : null
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : ""
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 6,
+  "transactionInfo" : {
+    "binaryString" : "0000000000000110",
+    "flag" : 6,
+    "investment" : false,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 77,
+    "xferTransactionId" : 4896
+  }
+} ]

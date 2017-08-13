@@ -1,0 +1,771 @@
+[ {
+  "_id" : 2770,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 4300.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-01-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    },
+    "transaction" : {
+      "_id" : 2770,
+      "price" : 21.5,
+      "quantity" : 200.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 73,
+    "xferTransactionId" : 2771
+  }
+}, {
+  "_id" : 2768,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 1524.40,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2006-07-15T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 116,
+      "name" : "White Oak Growth Stock",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2768,
+      "price" : 37.11,
+      "quantity" : 40.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 73,
+    "xferTransactionId" : 2769
+  }
+}, {
+  "_id" : 2755,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 4378.00,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 115,
+      "name" : "Oakmark Fund",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2755,
+      "price" : 43.78,
+      "quantity" : 100.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 2756,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 3600.00,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 116,
+      "name" : "White Oak Growth Stock",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2756,
+      "price" : 36.0,
+      "quantity" : 100.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 2757,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 2617.00,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 104,
+      "name" : "Toys R Us",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2757,
+      "price" : 26.17,
+      "quantity" : 100.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 2758,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 3507.00,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 103,
+      "name" : "McDonalds",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2758,
+      "price" : 35.07,
+      "quantity" : 100.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 2759,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 3507.00,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 102,
+      "name" : "Walt Disney Company",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2759,
+      "price" : 35.07,
+      "quantity" : 100.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 2760,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 623.50,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 102,
+      "name" : "Walt Disney Company",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2760,
+      "price" : 38.9,
+      "quantity" : 15.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 73,
+    "xferTransactionId" : 2761
+  }
+}, {
+  "_id" : 2762,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 717.75,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 104,
+      "name" : "Toys R Us",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2762,
+      "price" : 27.11,
+      "quantity" : 25.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 73,
+    "xferTransactionId" : 2763
+  }
+}, {
+  "_id" : 2764,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 778.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 103,
+      "name" : "McDonalds",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2764,
+      "price" : 36.9,
+      "quantity" : 20.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 73,
+    "xferTransactionId" : 2765
+  }
+}, {
+  "_id" : 2766,
+  "account" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment"
+  },
+  "amount" : 2060.50,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 115,
+      "name" : "Oakmark Fund",
+      "symbol" : null
+    },
+    "transaction" : {
+      "_id" : 2766,
+      "price" : 44.9,
+      "quantity" : 45.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 73,
+    "xferTransactionId" : 2767
+  }
+} ]

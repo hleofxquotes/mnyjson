@@ -1,0 +1,421 @@
+[ {
+  "_id" : 4900,
+  "account" : {
+    "_id" : 79,
+    "name" : "ETF Brokerage Account"
+  },
+  "amount" : 1250.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-01-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 123,
+      "name" : "Contoso Exchange Traded Fund",
+      "symbol" : "QQQ"
+    },
+    "transaction" : {
+      "_id" : 4900,
+      "price" : 25.0,
+      "quantity" : 50.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 80,
+    "xferTransactionId" : 4901
+  }
+}, {
+  "_id" : 4903,
+  "account" : {
+    "_id" : 79,
+    "name" : "ETF Brokerage Account"
+  },
+  "amount" : -75.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-04-10T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 123,
+      "name" : "Contoso Exchange Traded Fund",
+      "symbol" : "QQQ"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 80,
+    "xferTransactionId" : 4904
+  }
+}, {
+  "_id" : 4905,
+  "account" : {
+    "_id" : 79,
+    "name" : "ETF Brokerage Account"
+  },
+  "amount" : -75.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-07-10T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 123,
+      "name" : "Contoso Exchange Traded Fund",
+      "symbol" : "QQQ"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 80,
+    "xferTransactionId" : 4906
+  }
+}, {
+  "_id" : 4907,
+  "account" : {
+    "_id" : 79,
+    "name" : "ETF Brokerage Account"
+  },
+  "amount" : -75.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2007-10-10T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 123,
+      "name" : "Contoso Exchange Traded Fund",
+      "symbol" : "QQQ"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 80,
+    "xferTransactionId" : 4908
+  }
+}, {
+  "_id" : 4909,
+  "account" : {
+    "_id" : 79,
+    "name" : "ETF Brokerage Account"
+  },
+  "amount" : -75.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-01-10T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 123,
+      "name" : "Contoso Exchange Traded Fund",
+      "symbol" : "QQQ"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 80,
+    "xferTransactionId" : 4910
+  }
+}, {
+  "_id" : 4911,
+  "account" : {
+    "_id" : 79,
+    "name" : "ETF Brokerage Account"
+  },
+  "amount" : -260.00,
+  "category" : {
+    "_id" : 135,
+    "fullName" : null,
+    "name" : "Capital Gains"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2008-02-15T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Sell",
+      "type" : 2
+    },
+    "security" : {
+      "_id" : 123,
+      "name" : "Contoso Exchange Traded Fund",
+      "symbol" : "QQQ"
+    },
+    "transaction" : {
+      "_id" : 4911,
+      "price" : 26.0,
+      "quantity" : 10.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 80,
+    "xferTransactionId" : 4912
+  }
+} ]

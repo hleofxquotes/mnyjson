@@ -1,0 +1,23 @@
+{
+  "_id" : 19,
+  "accountType" : "ASSET",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 355000.00,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Primary Residence",
+  "relatedToAccount" : null,
+  "retirement" : false,
+  "securityHoldings" : null,
+  "startingBalance" : 355000.00,
+  "transactions" : {
+    "count" : 0
+  }
+}

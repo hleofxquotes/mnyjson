@@ -1,0 +1,29 @@
+{
+  "_id" : 17,
+  "accountType" : "BANKING",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 13192.68,
+  "filteredTransactions" : {
+    "count" : 1
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Charlie's 401(k) (Contributions)",
+  "relatedToAccount" : {
+    "_id" : 16,
+    "name" : "Charlie's 401(k)",
+    "accountType" : "INVESTMENT",
+    "startingBalance" : 0.00,
+    "currentBalance" : 38223.90
+  },
+  "retirement" : false,
+  "securityHoldings" : null,
+  "startingBalance" : 250000.00,
+  "transactions" : {
+    "count" : 205
+  }
+}

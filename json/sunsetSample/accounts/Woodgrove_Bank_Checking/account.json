@@ -1,0 +1,23 @@
+{
+  "_id" : 42,
+  "accountType" : "BANKING",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 22871.06,
+  "filteredTransactions" : {
+    "count" : 22
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Woodgrove Bank Checking",
+  "relatedToAccount" : null,
+  "retirement" : false,
+  "securityHoldings" : null,
+  "startingBalance" : -76000.00,
+  "transactions" : {
+    "count" : 1716
+  }
+}

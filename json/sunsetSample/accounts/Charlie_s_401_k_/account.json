@@ -1,0 +1,74 @@
+{
+  "_id" : 16,
+  "accountType" : "INVESTMENT",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 38223.90,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "_401k",
+  "name" : "Charlie's 401(k)",
+  "relatedToAccount" : {
+    "_id" : 17,
+    "name" : "Charlie's 401(k) (Contributions)",
+    "accountType" : "BANKING",
+    "startingBalance" : 250000.00,
+    "currentBalance" : 13192.68
+  },
+  "retirement" : true,
+  "securityHoldings" : [ {
+    "marketValue" : 3416.40,
+    "price" : 21.90,
+    "quantity" : 156.000,
+    "security" : {
+      "_id" : 56,
+      "name" : "Litware, Inc.",
+      "symbol" : "LITW"
+    }
+  }, {
+    "marketValue" : 5870.78,
+    "price" : 11.14,
+    "quantity" : 527.000,
+    "security" : {
+      "_id" : 59,
+      "name" : "Lucerne Publishing",
+      "symbol" : "LUPB"
+    }
+  }, {
+    "marketValue" : 1316.04,
+    "price" : 29.91,
+    "quantity" : 44.000,
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    }
+  }, {
+    "marketValue" : 11928.00,
+    "price" : 994.00,
+    "quantity" : 12.000,
+    "security" : {
+      "_id" : 60,
+      "name" : "Trey Research",
+      "symbol" : "TREY"
+    }
+  }, {
+    "marketValue" : 2500.00,
+    "price" : 1.00,
+    "quantity" : 2500.000,
+    "security" : {
+      "_id" : 57,
+      "name" : "Wide World Importers",
+      "symbol" : null
+    }
+  } ],
+  "startingBalance" : 0.00,
+  "transactions" : {
+    "count" : 5
+  }
+}

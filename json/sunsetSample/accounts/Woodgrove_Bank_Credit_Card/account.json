@@ -1,0 +1,23 @@
+{
+  "_id" : 39,
+  "accountType" : "CREDIT_CARD",
+  "closed" : false,
+  "creditCardAmountLimit" : 0.0000,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 19305.74,
+  "filteredTransactions" : {
+    "count" : 1
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Woodgrove Bank Credit Card",
+  "relatedToAccount" : null,
+  "retirement" : false,
+  "securityHoldings" : null,
+  "startingBalance" : -10000.00,
+  "transactions" : {
+    "count" : 270
+  }
+}

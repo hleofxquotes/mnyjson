@@ -1,0 +1,47 @@
+{
+  "_id" : 77,
+  "accountType" : "INVESTMENT",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 9000.00,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Commodities",
+  "relatedToAccount" : {
+    "_id" : 78,
+    "name" : "Commodities (Cash)",
+    "accountType" : "BANKING",
+    "startingBalance" : 0.00,
+    "currentBalance" : 255.00
+  },
+  "retirement" : false,
+  "securityHoldings" : [ {
+    "marketValue" : 6835.00,
+    "price" : 683.50,
+    "quantity" : 10.000,
+    "security" : {
+      "_id" : 122,
+      "name" : "Gold",
+      "symbol" : "-GC"
+    }
+  }, {
+    "marketValue" : 1910.00,
+    "price" : 1.91,
+    "quantity" : 1000.000,
+    "security" : {
+      "_id" : 121,
+      "name" : "Heating Oil",
+      "symbol" : "-HO"
+    }
+  } ],
+  "startingBalance" : 0.00,
+  "transactions" : {
+    "count" : 2
+  }
+}

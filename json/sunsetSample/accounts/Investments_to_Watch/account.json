@@ -1,0 +1,32 @@
+{
+  "_id" : 26,
+  "accountType" : "INVESTMENT",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : 3996.56,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Investments to Watch",
+  "relatedToAccount" : null,
+  "retirement" : false,
+  "securityHoldings" : [ {
+    "marketValue" : 3996.56,
+    "price" : 36.25,
+    "quantity" : 110.250,
+    "security" : {
+      "_id" : 98,
+      "name" : "Adatum Corp",
+      "symbol" : "ADM"
+    }
+  } ],
+  "startingBalance" : 0.00,
+  "transactions" : {
+    "count" : 9
+  }
+}

@@ -1,0 +1,3081 @@
+[ {
+  "_id" : 660,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 19939.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2000-08-19T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : 660,
+      "price" : 24.875,
+      "quantity" : 800.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 661
+  }
+}, {
+  "_id" : 1093,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-02-27T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1094
+  }
+}, {
+  "_id" : 1099,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -36.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-03-08T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1100
+  }
+}, {
+  "_id" : 1125,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-05-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1126
+  }
+}, {
+  "_id" : 1129,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -1069.04,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-05-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 56,
+      "name" : "Litware, Inc.",
+      "symbol" : "LITW"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1130
+  }
+}, {
+  "_id" : 1135,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -36.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-06-06T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1136
+  }
+}, {
+  "_id" : 2477,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 2983.34,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    },
+    "transaction" : {
+      "_id" : 2477,
+      "price" : 34.69,
+      "quantity" : 86.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2478
+  }
+}, {
+  "_id" : 1167,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-08-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1168
+  }
+}, {
+  "_id" : 1171,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -44.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-09-07T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1172
+  }
+}, {
+  "_id" : 1193,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-11-29T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1194
+  }
+}, {
+  "_id" : 1199,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -44.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-12-06T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1200
+  }
+}, {
+  "_id" : 2449,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 2867.40,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2001-12-31T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    },
+    "transaction" : {
+      "_id" : 2449,
+      "price" : 53.1,
+      "quantity" : 54.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2450
+  }
+}, {
+  "_id" : 1221,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-03-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1222
+  }
+}, {
+  "_id" : 1225,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -44.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-03-08T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1226
+  }
+}, {
+  "_id" : 2483,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -6130.00,
+  "category" : {
+    "_id" : 135,
+    "fullName" : null,
+    "name" : "Capital Gains"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-03-24T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Sell",
+      "type" : 2
+    },
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    },
+    "transaction" : {
+      "_id" : 2483,
+      "price" : 102.5,
+      "quantity" : 60.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2484
+  }
+}, {
+  "_id" : 1251,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-06-01T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1252
+  }
+}, {
+  "_id" : 1259,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -44.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-06-08T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1260
+  }
+}, {
+  "_id" : 2485,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 2953.69,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-06-30T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    },
+    "transaction" : {
+      "_id" : 2485,
+      "price" : 55.73,
+      "quantity" : 53.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2486
+  }
+}, {
+  "_id" : 1537,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 6530.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-07-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : 1537,
+      "price" : 130.0,
+      "quantity" : 50.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1538
+  }
+}, {
+  "_id" : 1418,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 4220.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-07-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 68,
+      "name" : "Coho Winery",
+      "symbol" : "COHO"
+    },
+    "transaction" : {
+      "_id" : 1418,
+      "price" : 42.0,
+      "quantity" : 100.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2504
+  }
+}, {
+  "_id" : 2467,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -15379.48,
+  "category" : {
+    "_id" : 135,
+    "fullName" : null,
+    "name" : "Capital Gains"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-07-19T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Sell",
+      "type" : 2
+    },
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    },
+    "transaction" : {
+      "_id" : 2467,
+      "price" : 154.0,
+      "quantity" : 100.0
+    }
+  },
+  "memo" : "MICROSOFT CORP",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2468
+  }
+}, {
+  "_id" : 1541,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 2400.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-08-22T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 69,
+      "name" : "Fabrikam, Inc.",
+      "symbol" : "FABRI"
+    },
+    "transaction" : {
+      "_id" : 1541,
+      "price" : 24.0,
+      "quantity" : 100.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1542
+  }
+}, {
+  "_id" : 2729,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -1041.20,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-08-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 56,
+      "name" : "Litware, Inc.",
+      "symbol" : "LITW"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2730
+  }
+}, {
+  "_id" : 1289,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-09-03T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1290
+  }
+}, {
+  "_id" : 1291,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -56.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-09-05T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 22,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010110",
+    "flag" : 22,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : true,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 1292
+  }
+}, {
+  "_id" : 2721,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-11-29T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2722
+  }
+}, {
+  "_id" : 2731,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -941.24,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-11-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 56,
+      "name" : "Litware, Inc.",
+      "symbol" : "LITW"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2732
+  }
+}, {
+  "_id" : 2715,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -55.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2002-12-06T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2716
+  }
+}, {
+  "_id" : 2733,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -1011.12,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-02-28T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 56,
+      "name" : "Litware, Inc.",
+      "symbol" : "LITW"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2734
+  }
+}, {
+  "_id" : 2723,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-03-01T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2724
+  }
+}, {
+  "_id" : 2717,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -58.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-03-08T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2718
+  }
+}, {
+  "_id" : 2481,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -9272.50,
+  "category" : {
+    "_id" : 135,
+    "fullName" : null,
+    "name" : "Capital Gains"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-05-02T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Sell",
+      "type" : 2
+    },
+    "security" : {
+      "_id" : 114,
+      "name" : "Microsoft",
+      "symbol" : "MSFT"
+    },
+    "transaction" : {
+      "_id" : 2481,
+      "price" : 309.75,
+      "quantity" : 30.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2482
+  }
+}, {
+  "_id" : 2737,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 6225.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-05-21T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 68,
+      "name" : "Coho Winery",
+      "symbol" : "COHO"
+    },
+    "transaction" : {
+      "_id" : 2737,
+      "price" : 41.5,
+      "quantity" : 150.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2738
+  }
+}, {
+  "_id" : 2735,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -1123.23,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-05-31T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 56,
+      "name" : "Litware, Inc.",
+      "symbol" : "LITW"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2736
+  }
+}, {
+  "_id" : 2725,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -292.50,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-06-01T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 77,
+      "name" : "Consolidated Messengers",
+      "symbol" : "CONSO"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2726
+  }
+}, {
+  "_id" : 2719,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -64.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-06-08T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2720
+  }
+}, {
+  "_id" : 2727,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 1175.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2003-06-10T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 69,
+      "name" : "Fabrikam, Inc.",
+      "symbol" : "FABRI"
+    },
+    "transaction" : {
+      "_id" : 2727,
+      "price" : 23.5,
+      "quantity" : 50.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 2728
+  }
+}, {
+  "_id" : 4075,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 0.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2004-12-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Add Shares",
+      "type" : 12
+    },
+    "security" : {
+      "_id" : 105,
+      "name" : "Woodgrove Money Market Fund",
+      "symbol" : "WGMXX"
+    },
+    "transaction" : {
+      "_id" : 4075,
+      "price" : null,
+      "quantity" : 8345.0
+    }
+  },
+  "memo" : "Positions adjusted to match balance at institution.",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
+  "_id" : 4076,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -8345.00,
+  "category" : {
+    "_id" : 135,
+    "fullName" : null,
+    "name" : "Capital Gains"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-01-01T08:00:00.000+0000",
+  "fiTransactionId" : "40025098200011111050",
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Sell",
+      "type" : 2
+    },
+    "security" : {
+      "_id" : 105,
+      "name" : "Woodgrove Money Market Fund",
+      "symbol" : "WGMXX"
+    },
+    "transaction" : {
+      "_id" : 4076,
+      "price" : 1.0,
+      "quantity" : 8345.0
+    }
+  },
+  "memo" : "WOODGROVE MONEY MARKET FUND",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 4077
+  }
+}, {
+  "_id" : 4078,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -51.28,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-01-14T08:00:00.000+0000",
+  "fiTransactionId" : "40025098200010157523",
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 105,
+      "name" : "Woodgrove Money Market Fund",
+      "symbol" : "WGMXX"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : "Dividend",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 4079
+  }
+}, {
+  "_id" : 4080,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 51.28,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-01-15T08:00:00.000+0000",
+  "fiTransactionId" : "40025098200008029240",
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 105,
+      "name" : "Woodgrove Money Market Fund",
+      "symbol" : "WGMXX"
+    },
+    "transaction" : {
+      "_id" : 4080,
+      "price" : 1.0,
+      "quantity" : 51.28
+    }
+  },
+  "memo" : "WOODGROVE MONEY MARKET FUND",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 4081
+  }
+}, {
+  "_id" : 4084,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : -35.00,
+  "category" : {
+    "_id" : 133,
+    "fullName" : null,
+    "name" : "Dividends"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-01-16T08:00:00.000+0000",
+  "fiTransactionId" : "40025098200010157524",
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Dividend",
+      "type" : 3
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : null,
+      "price" : null,
+      "quantity" : null
+    }
+  },
+  "memo" : "Dividend",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 4085
+  }
+}, {
+  "_id" : 4082,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 35.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-01-17T08:00:00.000+0000",
+  "fiTransactionId" : "40025098200008029241",
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 105,
+      "name" : "Woodgrove Money Market Fund",
+      "symbol" : "WGMXX"
+    },
+    "transaction" : {
+      "_id" : 4082,
+      "price" : 1.0,
+      "quantity" : 35.0
+    }
+  },
+  "memo" : "WOODGROVE MONEY MARKET FUND",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 18,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010010",
+    "flag" : 18,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : true,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : true,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : 3,
+    "xferTransactionId" : 4083
+  }
+}, {
+  "_id" : 4087,
+  "account" : {
+    "_id" : 2,
+    "name" : "Woodgrove Investments"
+  },
+  "amount" : 0.00,
+  "category" : {
+    "_id" : 130,
+    "fullName" : null,
+    "name" : "INCOME"
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2005-01-30T08:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Remove Shares",
+      "type" : 13
+    },
+    "security" : {
+      "_id" : 78,
+      "name" : "Contoso Pharmaceuticals",
+      "symbol" : "LEH"
+    },
+    "transaction" : {
+      "_id" : 4087,
+      "price" : null,
+      "quantity" : 800.0
+    }
+  },
+  "memo" : "Positions adjusted to match balance at institution.",
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+} ]

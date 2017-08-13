@@ -1,0 +1,23 @@
+{
+  "_id" : 63,
+  "accountType" : "CREDIT_CARD",
+  "closed" : false,
+  "creditCardAmountLimit" : -10000.0000,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : -836.00,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Woodgrove Platinum Card",
+  "relatedToAccount" : null,
+  "retirement" : false,
+  "securityHoldings" : null,
+  "startingBalance" : -836.00,
+  "transactions" : {
+    "count" : 0
+  }
+}

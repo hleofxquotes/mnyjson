@@ -1,0 +1,29 @@
+{
+  "_id" : 73,
+  "accountType" : "BANKING",
+  "closed" : false,
+  "creditCardAmountLimit" : null,
+  "currency" : {
+    "_id" : 45,
+    "code" : "USD"
+  },
+  "currentBalance" : -10004.15,
+  "filteredTransactions" : {
+    "count" : 0
+  },
+  "investmentSubType" : "NOT_APPLICABLE",
+  "name" : "Charlie & May’s Joint Inv (Cash)",
+  "relatedToAccount" : {
+    "_id" : 72,
+    "name" : "Charlie & May’s Joint Investment",
+    "accountType" : "INVESTMENT",
+    "startingBalance" : 0.00,
+    "currentBalance" : null
+  },
+  "retirement" : false,
+  "securityHoldings" : null,
+  "startingBalance" : 0.00,
+  "transactions" : {
+    "count" : 6
+  }
+}
