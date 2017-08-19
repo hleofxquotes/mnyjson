@@ -1,0 +1,12 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:XferInfo",
+  "properties" : {
+    "xferAccountId" : {
+      "type" : "integer"
+    },
+    "xferTransactionId" : {
+      "type" : "integer"
+    }
+  }
+}

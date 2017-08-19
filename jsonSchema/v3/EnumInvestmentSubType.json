@@ -1,0 +1,4 @@
+{
+  "type" : "string",
+  "enum" : [ "_403b", "_401k", "IRA", "KEOGH", "RETIREMENT", "NOT_APPLICABLE", "UNKNOWN" ]
+}

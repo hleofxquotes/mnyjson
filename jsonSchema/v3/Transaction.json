@@ -1,0 +1,228 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Transaction",
+  "properties" : {
+    "_id" : {
+      "type" : "integer"
+    },
+    "account" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Transaction:AccountLink",
+      "properties" : {
+        "_id" : {
+          "type" : "integer"
+        },
+        "name" : {
+          "type" : "string"
+        }
+      }
+    },
+    "amount" : {
+      "type" : "any"
+    },
+    "category" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Transaction:CategoryLink",
+      "properties" : {
+        "_id" : {
+          "type" : "integer"
+        },
+        "fullName" : {
+          "type" : "string"
+        },
+        "name" : {
+          "type" : "string"
+        }
+      }
+    },
+    "classification1" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Transaction:Classification1Link",
+      "properties" : {
+        "_id" : {
+          "type" : "integer"
+        },
+        "name" : {
+          "type" : "string"
+        }
+      }
+    },
+    "cleared" : {
+      "type" : "boolean"
+    },
+    "clearedState" : {
+      "type" : "integer"
+    },
+    "date" : {
+      "type" : "string",
+      "format" : "date-time"
+    },
+    "fiTransactionId" : {
+      "type" : "string"
+    },
+    "frequency" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Frequency",
+      "properties" : {
+        "label" : {
+          "type" : "string"
+        },
+        "recurring" : {
+          "type" : "boolean"
+        },
+        "type" : {
+          "type" : "integer"
+        }
+      }
+    },
+    "investment" : {
+      "type" : "boolean"
+    },
+    "investmentInfo" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:InvestmentInfo",
+      "properties" : {
+        "activity" : {
+          "type" : "object",
+          "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:impl:InvestmentActivity",
+          "properties" : {
+            "label" : {
+              "type" : "string"
+            },
+            "type" : {
+              "type" : "integer"
+            }
+          }
+        },
+        "security" : {
+          "type" : "object",
+          "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Security",
+          "properties" : {
+            "_id" : {
+              "type" : "integer"
+            },
+            "name" : {
+              "type" : "string"
+            },
+            "symbol" : {
+              "type" : "string"
+            }
+          }
+        },
+        "transaction" : {
+          "type" : "object",
+          "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:InvestmentTransaction",
+          "properties" : {
+            "_id" : {
+              "type" : "integer"
+            },
+            "price" : {
+              "type" : "number"
+            },
+            "quantity" : {
+              "type" : "number"
+            }
+          }
+        }
+      }
+    },
+    "memo" : {
+      "type" : "string"
+    },
+    "number" : {
+      "type" : "string"
+    },
+    "payee" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Transaction:PayeeLink",
+      "properties" : {
+        "_id" : {
+          "type" : "integer"
+        },
+        "name" : {
+          "type" : "string"
+        }
+      }
+    },
+    "reconciled" : {
+      "type" : "boolean"
+    },
+    "recurring" : {
+      "type" : "boolean"
+    },
+    "splits" : {
+      "type" : "array",
+      "items" : {
+        "type" : "object",
+        "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:TransactionSplit",
+        "properties" : {
+          "parentId" : {
+            "type" : "integer"
+          },
+          "rowId" : {
+            "type" : "integer"
+          },
+          "transaction" : {
+            "type" : "object",
+            "$ref" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Transaction"
+          }
+        }
+      }
+    },
+    "state" : {
+      "type" : "string",
+      "enum" : [ "UNRECONCILED", "RECONCILED", "CLEARED", "VOID" ]
+    },
+    "statusFlag" : {
+      "type" : "integer"
+    },
+    "transactionInfo" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:TransactionInfo",
+      "properties" : {
+        "flag" : {
+          "type" : "integer"
+        },
+        "investment" : {
+          "type" : "boolean"
+        },
+        "splitChild" : {
+          "type" : "boolean"
+        },
+        "splitParent" : {
+          "type" : "boolean"
+        },
+        "transfer" : {
+          "type" : "boolean"
+        },
+        "transferTo" : {
+          "type" : "boolean"
+        },
+        "void" : {
+          "type" : "boolean"
+        }
+      }
+    },
+    "transfer" : {
+      "type" : "boolean"
+    },
+    "unaccepted" : {
+      "type" : "boolean"
+    },
+    "void" : {
+      "type" : "boolean"
+    },
+    "xferInfo" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:XferInfo",
+      "properties" : {
+        "xferAccountId" : {
+          "type" : "integer"
+        },
+        "xferTransactionId" : {
+          "type" : "integer"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "type" : "string",
+  "enum" : [ "BANKING", "CREDIT_CARD", "CASH", "ASSET", "LIABILITY", "INVESTMENT", "LOAN", "UNKNOWN" ]
+}

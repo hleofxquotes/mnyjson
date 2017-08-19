@@ -1,0 +1,37 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Bill",
+  "properties" : {
+    "_id" : {
+      "type" : "integer"
+    },
+    "billHeadId" : {
+      "type" : "integer"
+    },
+    "date" : {
+      "type" : "string",
+      "format" : "date-time"
+    },
+    "daysAutoEnter" : {
+      "type" : "integer"
+    },
+    "frequency" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Frequency",
+      "properties" : {
+        "label" : {
+          "type" : "string"
+        },
+        "recurring" : {
+          "type" : "boolean"
+        },
+        "type" : {
+          "type" : "integer"
+        }
+      }
+    },
+    "transactionId" : {
+      "type" : "integer"
+    }
+  }
+}

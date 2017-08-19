@@ -1,0 +1,12 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:MnyCurrency",
+  "properties" : {
+    "_id" : {
+      "type" : "integer"
+    },
+    "code" : {
+      "type" : "string"
+    }
+  }
+}

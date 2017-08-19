@@ -1,0 +1,21 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Category",
+  "properties" : {
+    "_id" : {
+      "type" : "integer"
+    },
+    "classificationId" : {
+      "type" : "integer"
+    },
+    "level" : {
+      "type" : "integer"
+    },
+    "name" : {
+      "type" : "string"
+    },
+    "parentId" : {
+      "type" : "integer"
+    }
+  }
+}

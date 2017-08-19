@@ -1,0 +1,30 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:SecurityHolding",
+  "properties" : {
+    "marketValue" : {
+      "type" : "any"
+    },
+    "price" : {
+      "type" : "any"
+    },
+    "quantity" : {
+      "type" : "any"
+    },
+    "security" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Security",
+      "properties" : {
+        "_id" : {
+          "type" : "integer"
+        },
+        "name" : {
+          "type" : "string"
+        },
+        "symbol" : {
+          "type" : "string"
+        }
+      }
+    }
+  }
+}
