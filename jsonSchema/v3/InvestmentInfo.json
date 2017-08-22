@@ -1,0 +1,48 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:InvestmentInfo",
+  "properties" : {
+    "activity" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:impl:InvestmentActivity",
+      "properties" : {
+        "label" : {
+          "type" : "string"
+        },
+        "type" : {
+          "type" : "integer"
+        }
+      }
+    },
+    "security" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Security",
+      "properties" : {
+        "_id" : {
+          "type" : "integer"
+        },
+        "name" : {
+          "type" : "string"
+        },
+        "symbol" : {
+          "type" : "string"
+        }
+      }
+    },
+    "transaction" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:InvestmentTransaction",
+      "properties" : {
+        "_id" : {
+          "type" : "integer"
+        },
+        "price" : {
+          "type" : "number"
+        },
+        "quantity" : {
+          "type" : "number"
+        }
+      }
+    }
+  }
+}

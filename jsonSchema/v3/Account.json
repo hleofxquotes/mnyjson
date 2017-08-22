@@ -1,0 +1,90 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Account",
+  "properties" : {
+    "_id" : {
+      "type" : "integer"
+    },
+    "accountType" : {
+      "type" : "string",
+      "enum" : [ "BANKING", "CREDIT_CARD", "CASH", "ASSET", "LIABILITY", "INVESTMENT", "LOAN", "UNKNOWN" ]
+    },
+    "closed" : {
+      "type" : "boolean"
+    },
+    "creditCardAmountLimit" : {
+      "type" : "number"
+    },
+    "currency" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:MnyCurrency",
+      "properties" : {
+        "_id" : {
+          "type" : "integer"
+        },
+        "code" : {
+          "type" : "string"
+        }
+      }
+    },
+    "currentBalance" : {
+      "type" : "any"
+    },
+    "filteredTransactions" : {
+      "type" : "any"
+    },
+    "investmentSubType" : {
+      "type" : "string",
+      "enum" : [ "_403b", "_401k", "IRA", "KEOGH", "RETIREMENT", "NOT_APPLICABLE", "UNKNOWN" ]
+    },
+    "name" : {
+      "type" : "string"
+    },
+    "relatedToAccount" : {
+      "type" : "object",
+      "$ref" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Account"
+    },
+    "retirement" : {
+      "type" : "boolean"
+    },
+    "securityHoldings" : {
+      "type" : "array",
+      "items" : {
+        "type" : "object",
+        "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:SecurityHolding",
+        "properties" : {
+          "marketValue" : {
+            "type" : "any"
+          },
+          "price" : {
+            "type" : "any"
+          },
+          "quantity" : {
+            "type" : "any"
+          },
+          "security" : {
+            "type" : "object",
+            "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:Security",
+            "properties" : {
+              "_id" : {
+                "type" : "integer"
+              },
+              "name" : {
+                "type" : "string"
+              },
+              "symbol" : {
+                "type" : "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "startingBalance" : {
+      "type" : "any"
+    },
+    "transactions" : {
+      "type" : "any"
+    }
+  }
+}

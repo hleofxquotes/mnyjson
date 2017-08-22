@@ -1,0 +1,27 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:TransactionInfo",
+  "properties" : {
+    "flag" : {
+      "type" : "integer"
+    },
+    "investment" : {
+      "type" : "boolean"
+    },
+    "splitChild" : {
+      "type" : "boolean"
+    },
+    "splitParent" : {
+      "type" : "boolean"
+    },
+    "transfer" : {
+      "type" : "boolean"
+    },
+    "transferTo" : {
+      "type" : "boolean"
+    },
+    "void" : {
+      "type" : "boolean"
+    }
+  }
+}

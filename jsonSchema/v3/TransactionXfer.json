@@ -1,0 +1,12 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:hungle:sunriise:mnyobject:TransactionXfer",
+  "properties" : {
+    "fromTransactionId" : {
+      "type" : "integer"
+    },
+    "toTransactionId" : {
+      "type" : "integer"
+    }
+  }
+}
