@@ -1,0 +1,354 @@
+!Type:Invst
+D8/19'2000
+T19,939.00
+NBuy
+YContoso Pharmaceuticals
+I49.75
+Q400
+O39.00
+^
+D2/27'2001
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D3/8'2001
+T36.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D5/30'2001
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D5/31'2001
+T1,069.04
+NDiv
+YLitware, Inc.
+I
+Q
+LInvestment Income:Dividends
+^
+D6/6'2001
+T36.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D6/30'2001
+T2,983.34
+NBuy
+YMicrosoft
+I69.38
+Q43
+^
+D8/31'2001
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D9/7'2001
+T44.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D11/29'2001
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D12/6'2001
+T44.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D12/31'2001
+T2,867.40
+NBuy
+YMicrosoft
+I106.2
+Q27
+^
+D3/1'2002
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D3/8'2002
+T44.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D3/24'2002
+T6,130.00
+NSell
+YMicrosoft
+I205
+Q30
+O20.00
+LInvestment Income:Capital Gains
+^
+D6/1'2002
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D6/8'2002
+T44.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D6/30'2002
+T2,953.69
+NBuy
+YMicrosoft
+I111.46
+Q26.5
+^
+D7/2'2002
+T4,220.00
+NBuy
+YCoho Winery
+I42
+Q100
+O20.00
+^
+D7/2'2002
+T6,530.00
+NBuy
+YContoso Pharmaceuticals
+I65
+Q100
+O30.00
+^
+D7/19'2002
+MMICROSOFT CORP
+T15,379.48
+NSell
+YMicrosoft
+I308
+Q50
+O20.52
+LInvestment Income:Capital Gains
+^
+D8/22'2002
+T2,400.00
+NBuy
+YFabrikam, Inc.
+I24
+Q100
+^
+D8/31'2002
+T1,041.20
+NDiv
+YLitware, Inc.
+I
+Q
+LInvestment Income:Dividends
+^
+D9/3'2002
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D9/5'2002
+T56.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D11/29'2002
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D11/30'2002
+T941.24
+NDiv
+YLitware, Inc.
+I
+Q
+LInvestment Income:Dividends
+^
+D12/6'2002
+T55.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D2/28'2003
+T1,011.12
+NDiv
+YLitware, Inc.
+I
+Q
+LInvestment Income:Dividends
+^
+D3/1'2003
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D3/8'2003
+T58.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D5/2'2003
+T9,272.50
+NSell
+YMicrosoft
+I619.5
+Q15
+O20.00
+LInvestment Income:Capital Gains
+^
+D5/21'2003
+T6,225.00
+NBuy
+YCoho Winery
+I41.5
+Q150
+^
+D5/31'2003
+T1,123.23
+NDiv
+YLitware, Inc.
+I
+Q
+LInvestment Income:Dividends
+^
+D6/1'2003
+T292.50
+NDiv
+YConsolidated Messengers
+I
+Q
+LInvestment Income:Dividends
+^
+D6/8'2003
+T64.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D6/10'2003
+T1,175.00
+NBuy
+YFabrikam, Inc.
+I23.5
+Q50
+^
+D12/30'2004
+MPositions adjusted to match balance at institution.
+T0.00
+NShrsIn
+YWoodgrove Money Market Fund
+I
+Q8,345
+^
+D1/1'2005
+MWOODGROVE MONEY MARKET FUND
+T8,345.00
+NSell
+YWoodgrove Money Market Fund
+I1
+Q8,345
+LInvestment Income:Capital Gains
+^
+D1/14'2005
+MDividend
+T51.28
+NDiv
+YWoodgrove Money Market Fund
+I
+Q
+LInvestment Income:Dividends
+^
+D1/15'2005
+MWOODGROVE MONEY MARKET FUND
+T51.28
+NBuy
+YWoodgrove Money Market Fund
+I1
+Q51.28
+^
+D1/16'2005
+MDividend
+T35.00
+NDiv
+YContoso Pharmaceuticals
+I
+Q
+LInvestment Income:Dividends
+^
+D1/17'2005
+MWOODGROVE MONEY MARKET FUND
+T35.00
+NBuy
+YWoodgrove Money Market Fund
+I1
+Q35
+^
+D1/30'2005
+MPositions adjusted to match balance at institution.
+T0.00
+NShrsOut
+YContoso Pharmaceuticals
+I
+Q1,600
+^
