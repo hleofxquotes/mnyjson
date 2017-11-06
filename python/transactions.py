@@ -3,20 +3,28 @@
 
 import json
 import re
+import argparse
 
-transactions = json.loads(open('accounts/Woodgrove_Bank_Checking/transactions.json').read())
+def main():
+  parser = argparse.ArgumentParser()
+  parser.add_argument("-d", "--jsondir", default=".", help="JSON directory")
+  args = parser.parse_args()
 
-print '---'
-print 'Number of transactions: ', len(transactions)
-print '---'
+  transactions = json.loads(open(args.jsondir + '/' + 'accounts/Woodgrove_Bank_Checking/transactions.json').read())
 
-for transaction in transactions:
-  payee = transaction['payee']
-  matchObj = re.search( r'Gas', str(payee), re.M|re.I)
-  if matchObj:
-    date = transaction['date']
-    amount = transaction['amount']
-    print '  ', date, '\t', payee['name'], '\t', amount
+  print '---'
+  print 'Number of transactions: ', len(transactions)
+  print '---'
 
+  for transaction in transactions:
+    payee = transaction['payee']
+    matchObj = re.search( r'Gas', str(payee), re.M|re.I)
+    if matchObj:
+      date = transaction['date']
+      amount = transaction['amount']
+      print '  ', date, '\t', payee['name'], '\t', amount
+
+if __name__ == "__main__":
+    main()
 
 
