@@ -1,0 +1,215 @@
+---
+Number of securities:  72
+---
+     *Cash* , None
+        No transactions
+     Adatum Corp , ADM
+         Investments to Watch 	2001-12-31T08:00:00.000+0000 	Buy 	0.0
+     America Online , None
+         Investments to Watch 	2000-12-08T08:00:00.000+0000 	Buy 	0.0
+     Avery Dennison , None
+         Investments to Watch 	2000-12-08T08:00:00.000+0000 	Buy 	0.0
+     Bank of America Corp , None
+        No transactions
+     Blue Skies Airlines 5.375% 7/07 , None
+        No transactions
+     Blue Yonder Airlines , None
+         Woodgrove Bond Account 	2003-05-16T07:00:00.000+0000 	Dividend 	-1172.5
+     Blue Yonder Airlines 6.7% 11/06 , None
+        No transactions
+     Borland Software Corporation , None
+        No transactions
+     Carnival Corp , None
+        No transactions
+     Coho Wineries , None
+        No transactions
+     Coho Winery , COHO
+         Woodgrove Investments 	2002-07-02T07:00:00.000+0000 	Buy 	4220.0
+         Woodgrove Investments 	2003-05-21T07:00:00.000+0000 	Buy 	6225.0
+     Consolidated Messenger , None
+        No transactions
+     Consolidated Messengers , CONSO
+         Woodgrove Investments 	2001-02-27T08:00:00.000+0000 	Dividend 	-292.5
+         Woodgrove Investments 	2001-05-30T07:00:00.000+0000 	Dividend 	-292.5
+         Woodgrove Investments 	2001-08-31T07:00:00.000+0000 	Dividend 	-292.5
+         Woodgrove Investments 	2001-11-29T08:00:00.000+0000 	Dividend 	-292.5
+         Woodgrove Investments 	2002-03-01T08:00:00.000+0000 	Dividend 	-292.5
+         Woodgrove Investments 	2002-06-01T07:00:00.000+0000 	Dividend 	-292.5
+         Woodgrove Investments 	2002-09-03T07:00:00.000+0000 	Dividend 	-292.5
+         Woodgrove Investments 	2002-11-29T08:00:00.000+0000 	Dividend 	-292.5
+         Woodgrove Investments 	2003-03-01T08:00:00.000+0000 	Dividend 	-292.5
+         Woodgrove Investments 	2003-06-01T07:00:00.000+0000 	Dividend 	-292.5
+     Contoso Exchange Traded Fund , QQQ
+         ETF Brokerage Account 	2007-01-30T08:00:00.000+0000 	Buy 	1250.0
+         ETF Brokerage Account 	2007-04-10T07:00:00.000+0000 	Dividend 	-75.0
+         ETF Brokerage Account 	2007-07-10T07:00:00.000+0000 	Dividend 	-75.0
+         ETF Brokerage Account 	2007-10-10T07:00:00.000+0000 	Dividend 	-75.0
+         ETF Brokerage Account 	2008-01-10T08:00:00.000+0000 	Dividend 	-75.0
+         ETF Brokerage Account 	2008-02-15T08:00:00.000+0000 	Sell 	-260.0
+     Contoso Pharmaceuticals , LEH
+         Woodgrove Investments 	2000-08-19T07:00:00.000+0000 	Buy 	19939.0
+         Woodgrove Investments 	2001-03-08T08:00:00.000+0000 	Dividend 	-36.0
+         Woodgrove Investments 	2001-06-06T07:00:00.000+0000 	Dividend 	-36.0
+         Woodgrove Investments 	2001-09-07T07:00:00.000+0000 	Dividend 	-44.0
+         Woodgrove Investments 	2001-12-06T08:00:00.000+0000 	Dividend 	-44.0
+         Woodgrove Investments 	2002-03-08T08:00:00.000+0000 	Dividend 	-44.0
+         Woodgrove Investments 	2002-06-08T07:00:00.000+0000 	Dividend 	-44.0
+         Woodgrove Investments 	2002-07-02T07:00:00.000+0000 	Buy 	6530.0
+         Woodgrove Investments 	2002-09-05T07:00:00.000+0000 	Dividend 	-56.0
+         Woodgrove Investments 	2002-12-06T08:00:00.000+0000 	Dividend 	-55.0
+         Woodgrove Investments 	2003-03-08T08:00:00.000+0000 	Dividend 	-58.0
+         Woodgrove Investments 	2003-06-08T07:00:00.000+0000 	Dividend 	-64.0
+         Woodgrove Investments 	2005-01-16T08:00:00.000+0000 	Dividend 	-35.0
+         Woodgrove Investments 	2005-01-30T08:00:00.000+0000 	Remove Shares 	0.0
+     Contoso, Ltd. , CONT
+        No transactions
+     Dow Jones Industrial Average , $INDU
+         Investments to Watch 	2000-07-01T07:00:00.000+0000 	Buy 	0.0
+     EBay , None
+         Investments to Watch 	2000-12-08T08:00:00.000+0000 	Buy 	0.0
+     Fabrikam, Inc. , FABRI
+         Woodgrove Investments 	2002-08-22T07:00:00.000+0000 	Buy 	2400.0
+         Woodgrove Investments 	2003-06-10T07:00:00.000+0000 	Buy 	1175.0
+     Fidelity Balanced , None
+        No transactions
+     Fidelity Contrafund , None
+        No transactions
+     Fidelity Emerging Markets Fund , None
+        No transactions
+     Fidelity Growth & Income , None
+        No transactions
+     Fidelity Magellan , None
+        No transactions
+     Fidelity Mid-Cap Stock Fund , None
+        No transactions
+     Fidelity New Millenium , None
+        No transactions
+     Fidelity US Bond Index , None
+        No transactions
+     Fox Entertainment Group , None
+        No transactions
+     FrogKick Scuba Gear , FKSG
+        No transactions
+     General Electric Co , None
+        No transactions
+     German Stock , None
+        No transactions
+     Gold , -GC
+         Commodities 	2007-04-30T07:00:00.000+0000 	Buy 	6835.0
+     Heating Oil , -HO
+         Commodities 	2007-04-30T07:00:00.000+0000 	Buy 	1910.0
+     Janus Ent Fund , None
+        No transactions
+     Johnson & Johnson , None
+        No transactions
+     Litware, Inc. , LITW
+         Woodgrove Investments 	2001-05-31T07:00:00.000+0000 	Dividend 	-1069.04
+         Woodgrove Investments 	2002-08-31T07:00:00.000+0000 	Dividend 	-1041.2
+         Woodgrove Investments 	2002-11-30T08:00:00.000+0000 	Dividend 	-941.24
+         Woodgrove Investments 	2003-02-28T08:00:00.000+0000 	Dividend 	-1011.12
+         Woodgrove Investments 	2003-05-31T07:00:00.000+0000 	Dividend 	-1123.23
+         Charlie's 401(k) 	2006-07-01T07:00:00.000+0000 	Add Shares 	3416.4
+     Loan Banks , None
+         Woodgrove Bond Account 	2003-07-17T07:00:00.000+0000 	Interest 	-1054.5
+     Lucerne Publishing , LUPB
+         Charlie's 401(k) 	2006-09-15T07:00:00.000+0000 	Add Shares 	5870.78
+     Margie's Travel , None
+        No transactions
+     McDonalds , None
+         Charlie & May’s Joint Investment 	2007-01-01T08:00:00.000+0000 	Add Shares 	3507.0
+         Charlie & May’s Joint Investment 	2007-01-01T08:00:00.000+0000 	Buy 	778.0
+     Merrill Lynch Money Market , None
+        No transactions
+     Microsoft , MSFT
+         Woodgrove Investments 	2001-06-30T07:00:00.000+0000 	Buy 	2983.34
+         Woodgrove Investments 	2001-12-31T08:00:00.000+0000 	Buy 	2867.4
+         Woodgrove Investments 	2002-03-24T08:00:00.000+0000 	Sell 	-6130.0
+         Woodgrove Investments 	2002-06-30T07:00:00.000+0000 	Buy 	2953.69
+         Woodgrove Investments 	2002-07-19T07:00:00.000+0000 	Sell 	-15379.48
+         Woodgrove Investments 	2003-05-02T07:00:00.000+0000 	Sell 	-9272.5
+         Charlie's 401(k) 	2007-03-30T07:00:00.000+0000 	Buy 	1034.0
+         Charlie & May’s Joint Investment 	2006-01-30T08:00:00.000+0000 	Buy 	4300.0
+     Microsoft Corporation , None
+        No transactions
+     Microsoft Corporation 1999 Grant , None
+        No transactions
+     NASDAQ Composite Index , $COMPX
+         Investments to Watch 	2000-07-01T07:00:00.000+0000 	Buy 	0.0
+     New Bond , None
+         Woodgrove Bond Account 	2003-04-23T07:00:00.000+0000 	Buy 	10155.0
+     Oakmark Fund , None
+         Charlie & May’s Joint Investment 	2007-01-01T08:00:00.000+0000 	Add Shares 	4378.0
+         Charlie & May’s Joint Investment 	2007-01-01T08:00:00.000+0000 	Buy 	2060.5
+     PacifiCare Health Systems, Inc. , None
+        No transactions
+     Procter & Gamble , None
+        No transactions
+     Proseware, Inc. , None
+         Woodgrove Bond Account 	2001-08-16T07:00:00.000+0000 	Buy 	1018.53
+         Woodgrove Bond Account 	2002-02-13T08:00:00.000+0000 	Interest 	-320.0
+         Woodgrove Bond Account 	2002-08-16T07:00:00.000+0000 	Interest 	-320.0
+     ShopKo Stores , None
+        No transactions
+     Smith Barney Money Market , None
+        No transactions
+     Standard & Poor's 500 , $INX
+         Investments to Watch 	2000-07-01T07:00:00.000+0000 	Buy 	0.0
+     Standard & Poor's Healthcare , .HCX.X
+         Investments to Watch 	2002-08-23T07:00:00.000+0000 	Buy 	0.0
+     The Phone Company , None
+         Woodgrove Bond Account 	2002-08-16T07:00:00.000+0000 	Buy 	20614.85
+         Woodgrove Bond Account 	2002-10-12T07:00:00.000+0000 	Interest 	-745.0
+         Woodgrove Bond Account 	2003-04-13T07:00:00.000+0000 	Interest 	-745.0
+     Toys R Us , None
+         Charlie & May’s Joint Investment 	2007-01-01T08:00:00.000+0000 	Add Shares 	2617.0
+         Charlie & May’s Joint Investment 	2007-01-01T08:00:00.000+0000 	Buy 	717.75
+     Trey Research , TREY
+         Charlie's 401(k) 	2006-07-15T07:00:00.000+0000 	Add Shares 	11928.0
+     Vanguard Capital Opportunity Fund , None
+        No transactions
+     Vanguard Intermediate-Term Corporate Bond Fund , None
+        No transactions
+     Vanguard Money Market Fund , None
+        No transactions
+     Vanguard Primecap Fund , None
+        No transactions
+     Walt Disney Company , None
+         Charlie & May’s Joint Investment 	2007-01-01T08:00:00.000+0000 	Add Shares 	3507.0
+         Charlie & May’s Joint Investment 	2007-01-01T08:00:00.000+0000 	Buy 	623.5
+     White Oak Growth Stock , None
+         Charlie & May’s Joint Investment 	2006-07-15T07:00:00.000+0000 	Buy 	1524.4
+         Charlie & May’s Joint Investment 	2007-01-01T08:00:00.000+0000 	Add Shares 	3600.0
+     Wide World Importers , None
+         Woodgrove Bond Account 	2002-08-16T07:00:00.000+0000 	Buy 	10020.0
+         Woodgrove Bond Account 	2002-08-30T07:00:00.000+0000 	Interest 	-345.0
+         Woodgrove Bond Account 	2003-03-02T08:00:00.000+0000 	Interest 	-345.0
+         Charlie's 401(k) 	2007-07-15T07:00:00.000+0000 	Add Shares 	2500.0
+     Wingtip Toys , None
+         Woodgrove Bond Account 	2003-07-17T07:00:00.000+0000 	Buy 	16130.16
+     WoodGrove Bank Stock , WDGRVE
+        No transactions
+     WoodGrove Bank Stock 2006 Grant , None
+         WoodGrove Finance Stock Options 	2006-04-25T07:00:00.000+0000 	Grant 	0.0
+         WoodGrove Finance Stock Options 	2007-04-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2007-10-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2008-04-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2008-10-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2009-04-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2009-10-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2010-04-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2010-10-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2011-04-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2011-10-25T07:00:00.000+0000 	Vest 	0.0
+         WoodGrove Finance Stock Options 	2016-04-25T07:00:00.000+0000 	Expire (ESOs) 	0.0
+     Woodgrove Money Market , None
+         Woodgrove Bond Account 	2002-07-02T07:00:00.000+0000 	Buy 	5024.66
+     Woodgrove Money Market Fund , WGMXX
+         Woodgrove Investments 	2004-12-30T08:00:00.000+0000 	Add Shares 	0.0
+         Woodgrove Investments 	2005-01-01T08:00:00.000+0000 	Sell 	-8345.0
+         Woodgrove Investments 	2005-01-14T08:00:00.000+0000 	Dividend 	-51.28
+         Woodgrove Investments 	2005-01-15T08:00:00.000+0000 	Buy 	51.28
+         Woodgrove Investments 	2005-01-17T08:00:00.000+0000 	Buy 	35.0
+     World Importers 6.9% 9/04 , None
+        No transactions
+     emc , None
+         Investments to Watch 	2002-08-23T07:00:00.000+0000 	Buy 	0.0

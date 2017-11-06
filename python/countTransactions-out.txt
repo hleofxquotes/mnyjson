@@ -1,0 +1,26 @@
+---
+Number of accounts:  23
+---
+Charlie & May’s Joint Inv (Cash) 	BANKING 	6 	-10004.15
+Charlie & May’s Joint Investment 	INVESTMENT 	11 	19974.0
+Charlie's 401(k) 	INVESTMENT 	5 	38223.9
+Charlie's 401(k) (Contributions) 	BANKING 	205 	13192.68
+Commodities 	INVESTMENT 	2 	9000.0
+Commodities (Cash) 	BANKING 	3 	255.0
+ETF Brokerage Account 	INVESTMENT 	6 	3350.0
+ETF Brokerage Account (Cash) 	BANKING 	7 	2310.0
+Escrow Account 	ASSET 	114 	28100.0
+Home Loan 	LOAN 	240 	-149122.08
+Investments to Watch 	INVESTMENT 	9 	3996.56
+Previous card (No longer used) 	CREDIT_CARD 	0 	-984.25
+Primary Residence 	ASSET 	0 	355000.0
+WoodGrove Finance Stock Options 	INVESTMENT 	12 	0.0
+WoodGrove Finance Stock Options (Cash) 	BANKING 	0 	0.0
+Woodgrove Bank Checking 	BANKING 	1716 	22871.06
+Woodgrove Bank Credit Card 	CREDIT_CARD 	270 	19305.74
+Woodgrove Bank Savings 	BANKING 	176 	22946.3
+Woodgrove Bond Account 	INVESTMENT 	14 	4244.65
+Woodgrove Bond Account (Cash) 	BANKING 	14 	-57916.2
+Woodgrove Investments 	INVESTMENT 	44 	5755.42
+Woodgrove Investments (Cash) 	BANKING 	44 	-1594.62
+Woodgrove Platinum Card 	CREDIT_CARD 	0 	-836.0
