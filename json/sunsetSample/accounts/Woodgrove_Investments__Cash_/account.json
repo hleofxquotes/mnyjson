@@ -18,7 +18,7 @@
     "name" : "Woodgrove Investments",
     "accountType" : "INVESTMENT",
     "startingBalance" : 0.00,
-    "currentBalance" : 5755.42
+    "currentBalance" : 5978.92
   },
   "retirement" : false,
   "securityHoldings" : null,

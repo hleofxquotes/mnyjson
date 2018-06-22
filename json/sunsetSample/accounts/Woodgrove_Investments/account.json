@@ -7,7 +7,7 @@
     "_id" : 45,
     "code" : "USD"
   },
-  "currentBalance" : 5755.42,
+  "currentBalance" : 5978.92,
   "filteredTransactions" : {
     "count" : 0
   },
@@ -24,16 +24,16 @@
   "securityHoldings" : [ {
     "marketValue" : 0.03,
     "price" : 0.00,
-    "quantity" : 250.000,
+    "quantity" : 250.0,
     "security" : {
       "_id" : 68,
       "name" : "Coho Winery",
       "symbol" : "COHO"
     }
   }, {
-    "marketValue" : 3649.00,
-    "price" : 72.98,
-    "quantity" : 50.000,
+    "marketValue" : 3872.50,
+    "price" : 77.45,
+    "quantity" : 50.0,
     "security" : {
       "_id" : 78,
       "name" : "Contoso Pharmaceuticals",
@@ -42,7 +42,7 @@
   }, {
     "marketValue" : 3525.00,
     "price" : 23.50,
-    "quantity" : 150.000,
+    "quantity" : 150.0,
     "security" : {
       "_id" : 69,
       "name" : "Fabrikam, Inc.",
@@ -51,7 +51,7 @@
   }, {
     "marketValue" : 89.73,
     "price" : 29.91,
-    "quantity" : 3.000,
+    "quantity" : 3.0,
     "security" : {
       "_id" : 114,
       "name" : "Microsoft",
@@ -60,7 +60,7 @@
   }, {
     "marketValue" : 86.28,
     "price" : 1.00,
-    "quantity" : 86.280,
+    "quantity" : 86.28,
     "security" : {
       "_id" : 105,
       "name" : "Woodgrove Money Market Fund",

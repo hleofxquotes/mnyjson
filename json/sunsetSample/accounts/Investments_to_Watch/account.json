@@ -18,7 +18,7 @@
   "securityHoldings" : [ {
     "marketValue" : 3996.56,
     "price" : 36.25,
-    "quantity" : 110.250,
+    "quantity" : 110.25,
     "security" : {
       "_id" : 98,
       "name" : "Adatum Corp",

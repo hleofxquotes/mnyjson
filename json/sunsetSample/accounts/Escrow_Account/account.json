@@ -7,7 +7,7 @@
     "_id" : 45,
     "code" : "USD"
   },
-  "currentBalance" : 28100.00,
+  "currentBalance" : 28350.00,
   "filteredTransactions" : {
     "count" : 1
   },
@@ -18,6 +18,6 @@
   "securityHoldings" : null,
   "startingBalance" : 1000.00,
   "transactions" : {
-    "count" : 114
+    "count" : 115
   }
 }

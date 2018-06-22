@@ -8,7 +8,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -78,7 +80,9 @@
   "category" : {
     "_id" : 133,
     "fullName" : null,
-    "name" : "Dividends"
+    "name" : "Dividends",
+    "parentId" : 132,
+    "parentName" : "Investment Income"
   },
   "classification1" : {
     "_id" : -1,
@@ -148,7 +152,9 @@
   "category" : {
     "_id" : 133,
     "fullName" : null,
-    "name" : "Dividends"
+    "name" : "Dividends",
+    "parentId" : 132,
+    "parentName" : "Investment Income"
   },
   "classification1" : {
     "_id" : -1,
@@ -218,7 +224,9 @@
   "category" : {
     "_id" : 133,
     "fullName" : null,
-    "name" : "Dividends"
+    "name" : "Dividends",
+    "parentId" : 132,
+    "parentName" : "Investment Income"
   },
   "classification1" : {
     "_id" : -1,
@@ -288,7 +296,9 @@
   "category" : {
     "_id" : 133,
     "fullName" : null,
-    "name" : "Dividends"
+    "name" : "Dividends",
+    "parentId" : 132,
+    "parentName" : "Investment Income"
   },
   "classification1" : {
     "_id" : -1,
@@ -358,7 +368,9 @@
   "category" : {
     "_id" : 135,
     "fullName" : null,
-    "name" : "Capital Gains"
+    "name" : "Capital Gains",
+    "parentId" : 132,
+    "parentName" : "Investment Income"
   },
   "classification1" : {
     "_id" : -1,

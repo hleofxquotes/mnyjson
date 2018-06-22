@@ -1,4 +1,76 @@
 [ {
+  "_id" : 1048,
+  "account" : {
+    "_id" : 26,
+    "name" : "Investments to Watch"
+  },
+  "amount" : 0.00,
+  "category" : {
+    "_id" : 131,
+    "fullName" : null,
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
+  },
+  "classification1" : {
+    "_id" : -1,
+    "name" : null
+  },
+  "cleared" : false,
+  "clearedState" : 0,
+  "date" : "2000-07-01T07:00:00.000+0000",
+  "fiTransactionId" : null,
+  "frequency" : {
+    "label" : "Non-recurring",
+    "recurring" : false,
+    "type" : -1
+  },
+  "investment" : true,
+  "investmentInfo" : {
+    "activity" : {
+      "label" : "Buy",
+      "type" : 1
+    },
+    "security" : {
+      "_id" : 38,
+      "name" : "Standard & Poor's 500",
+      "symbol" : "$INX"
+    },
+    "transaction" : {
+      "_id" : 1048,
+      "price" : 0.0,
+      "quantity" : 0.0
+    }
+  },
+  "memo" : null,
+  "number" : null,
+  "payee" : {
+    "_id" : -1,
+    "name" : "UNKNOWN"
+  },
+  "reconciled" : false,
+  "recurring" : false,
+  "splits" : null,
+  "state" : "UNRECONCILED",
+  "statusFlag" : 16,
+  "transactionInfo" : {
+    "binaryString" : "0000000000010000",
+    "flag" : 16,
+    "investment" : true,
+    "splitChild" : false,
+    "splitParent" : false,
+    "transfer" : false,
+    "transferTo" : false,
+    "void" : false
+  },
+  "transfer" : false,
+  "unaccepted" : false,
+  "void" : false,
+  "xferInfo" : {
+    "xferAccountId" : null,
+    "xferTransactionId" : null
+  }
+}, {
   "_id" : 1046,
   "account" : {
     "_id" : 26,
@@ -8,7 +80,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -78,7 +152,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -139,76 +215,6 @@
     "xferTransactionId" : null
   }
 }, {
-  "_id" : 1048,
-  "account" : {
-    "_id" : 26,
-    "name" : "Investments to Watch"
-  },
-  "amount" : 0.00,
-  "category" : {
-    "_id" : 131,
-    "fullName" : null,
-    "name" : "EXPENSE"
-  },
-  "classification1" : {
-    "_id" : -1,
-    "name" : null
-  },
-  "cleared" : false,
-  "clearedState" : 0,
-  "date" : "2000-07-01T07:00:00.000+0000",
-  "fiTransactionId" : null,
-  "frequency" : {
-    "label" : "Non-recurring",
-    "recurring" : false,
-    "type" : -1
-  },
-  "investment" : true,
-  "investmentInfo" : {
-    "activity" : {
-      "label" : "Buy",
-      "type" : 1
-    },
-    "security" : {
-      "_id" : 38,
-      "name" : "Standard & Poor's 500",
-      "symbol" : "$INX"
-    },
-    "transaction" : {
-      "_id" : 1048,
-      "price" : 0.0,
-      "quantity" : 0.0
-    }
-  },
-  "memo" : null,
-  "number" : null,
-  "payee" : {
-    "_id" : -1,
-    "name" : "UNKNOWN"
-  },
-  "reconciled" : false,
-  "recurring" : false,
-  "splits" : null,
-  "state" : "UNRECONCILED",
-  "statusFlag" : 16,
-  "transactionInfo" : {
-    "binaryString" : "0000000000010000",
-    "flag" : 16,
-    "investment" : true,
-    "splitChild" : false,
-    "splitParent" : false,
-    "transfer" : false,
-    "transferTo" : false,
-    "void" : false
-  },
-  "transfer" : false,
-  "unaccepted" : false,
-  "void" : false,
-  "xferInfo" : {
-    "xferAccountId" : null,
-    "xferTransactionId" : null
-  }
-}, {
   "_id" : 1050,
   "account" : {
     "_id" : 26,
@@ -218,7 +224,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -288,7 +296,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -358,7 +368,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -428,7 +440,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -498,7 +512,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -568,7 +584,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,

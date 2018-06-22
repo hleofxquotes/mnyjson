@@ -24,7 +24,7 @@
   "securityHoldings" : [ {
     "marketValue" : 9975.00,
     "price" : 1.00,
-    "quantity" : 10000.000,
+    "quantity" : 10000.0,
     "security" : {
       "_id" : 112,
       "name" : "New Bond",
@@ -33,7 +33,7 @@
   }, {
     "marketValue" : 986.09,
     "price" : 0.99,
-    "quantity" : 1000.000,
+    "quantity" : 1000.0,
     "security" : {
       "_id" : 89,
       "name" : "Proseware, Inc.",
@@ -42,7 +42,7 @@
   }, {
     "marketValue" : 20537.60,
     "price" : 1.03,
-    "quantity" : 20000.000,
+    "quantity" : 20000.0,
     "security" : {
       "_id" : 87,
       "name" : "The Phone Company",
@@ -51,7 +51,7 @@
   }, {
     "marketValue" : 10000.00,
     "price" : 1.00,
-    "quantity" : 10000.000,
+    "quantity" : 10000.0,
     "security" : {
       "_id" : 57,
       "name" : "Wide World Importers",
@@ -60,7 +60,7 @@
   }, {
     "marketValue" : 15637.50,
     "price" : 1.04,
-    "quantity" : 15000.000,
+    "quantity" : 15000.0,
     "security" : {
       "_id" : 90,
       "name" : "Wingtip Toys",
@@ -69,7 +69,7 @@
   }, {
     "marketValue" : 5024.66,
     "price" : 1.00,
-    "quantity" : 5024.660,
+    "quantity" : 5024.66,
     "security" : {
       "_id" : 94,
       "name" : "Woodgrove Money Market",

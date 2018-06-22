@@ -8,7 +8,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -78,7 +80,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -148,7 +152,9 @@
   "category" : {
     "_id" : 130,
     "fullName" : null,
-    "name" : "INCOME"
+    "name" : "INCOME",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -218,7 +224,9 @@
   "category" : {
     "_id" : 130,
     "fullName" : null,
-    "name" : "INCOME"
+    "name" : "INCOME",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -288,7 +296,9 @@
   "category" : {
     "_id" : 130,
     "fullName" : null,
-    "name" : "INCOME"
+    "name" : "INCOME",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -358,7 +368,9 @@
   "category" : {
     "_id" : 130,
     "fullName" : null,
-    "name" : "INCOME"
+    "name" : "INCOME",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -428,7 +440,9 @@
   "category" : {
     "_id" : 130,
     "fullName" : null,
-    "name" : "INCOME"
+    "name" : "INCOME",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -498,7 +512,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -568,7 +584,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -638,7 +656,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
@@ -708,7 +728,9 @@
   "category" : {
     "_id" : 131,
     "fullName" : null,
-    "name" : "EXPENSE"
+    "name" : "EXPENSE",
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,

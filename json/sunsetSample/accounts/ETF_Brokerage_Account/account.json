@@ -24,7 +24,7 @@
   "securityHoldings" : [ {
     "marketValue" : 1040.00,
     "price" : 26.00,
-    "quantity" : 40.000,
+    "quantity" : 40.0,
     "security" : {
       "_id" : 123,
       "name" : "Contoso Exchange Traded Fund",

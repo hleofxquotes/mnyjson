@@ -8,7 +8,9 @@
   "category" : {
     "_id" : null,
     "fullName" : "Transfer from Woodgrove Bank Checking",
-    "name" : null
+    "name" : null,
+    "parentId" : null,
+    "parentName" : null
   },
   "classification1" : {
     "_id" : -1,
