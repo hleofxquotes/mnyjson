@@ -114,6 +114,12 @@
         },
         "name" : {
           "type" : "string"
+        },
+        "parentId" : {
+          "type" : "integer"
+        },
+        "parentName" : {
+          "type" : "string"
         }
       }
     },
