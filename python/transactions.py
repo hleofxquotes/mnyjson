@@ -5,6 +5,7 @@ import json
 import re
 import argparse
 
+
 def main():
   parser = argparse.ArgumentParser()
   parser.add_argument("-d", "--jsondir", default=".", help="JSON directory")
@@ -18,13 +19,13 @@ def main():
 
   for transaction in transactions:
     payee = transaction['payee']
-    matchObj = re.search( r'Gas', str(payee), re.M|re.I)
+    matchObj = re.search(r'Gas', str(payee), re.M | re.I)
     if matchObj:
       date = transaction['date']
       amount = transaction['amount']
       print '  ', date, '\t', payee['name'], '\t', amount
 
+
 if __name__ == "__main__":
     main()
-
 

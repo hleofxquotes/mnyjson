@@ -1,6 +1,7 @@
 import json
 import argparse
 
+
 def main():
   parser = argparse.ArgumentParser()
   parser.add_argument("-d", "--jsondir", default=".", help="JSON directory")
@@ -37,7 +38,7 @@ def main():
     if secTransactions is None:
       print '        No transactions'
     else:
-      #print '        Transactions ' , len(secTransactions)
+      # print '        Transactions ' , len(secTransactions)
       for transaction in secTransactions:
         account = transaction['account']
         accountName = account['name']
@@ -45,7 +46,7 @@ def main():
 
         date = transaction['date']
 
-        #payee = transaction['payee']
+        # payee = transaction['payee']
 
         # InvestmentInfo
         investmentInfo = transaction['investmentInfo']
@@ -54,10 +55,9 @@ def main():
         amount = transaction['amount']
 
         print '        ', accountName, '\t', date, '\t', activity['label'], '\t', amount
-        #print '        ', transaction
+        # print '        ', transaction
+
 
 if __name__ == "__main__":
     main()
-
-
 

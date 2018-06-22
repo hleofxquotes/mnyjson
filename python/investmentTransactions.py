@@ -28,6 +28,10 @@ def main():
     details = json.loads(open(args.jsondir + '/' + fileName).read())
 
     accountType = details['accountType'];
+    # only process INVESTMENT accountType
+    if accountType != 'INVESTMENT':
+      continue
+
     currentBalance = details['currentBalance'];
 
     fileName = os.path.join('accounts', safeName, 'transactions.json')
@@ -35,8 +39,18 @@ def main():
     transactions = json.loads(open(args.jsondir + '/' + fileName).read())
     accountName = account['name']
     accountName = accountName.encode('utf-8')
-    print accountName, '\t', accountType , '\t', len(transactions) , '\t', currentBalance
+    print '#', accountName, '\t', accountType , '\t', len(transactions) , '\t', currentBalance
 
+    safeName = account['safeName'].encode('utf-8')
+    transactions = json.loads(open(args.jsondir + '/' + 'accounts/' + safeName + '/transactions.json').read())
+    
+    for transaction in transactions:
+        date = transaction['date']
+        investmentInfo = transaction['investmentInfo']
+        activity = investmentInfo['activity']
+        security = investmentInfo['security']
+        amount = transaction['amount']
+        print '  ', date, '\t', activity['label'], '\t', security['name'], '\t', amount
 
 if __name__ == "__main__":
     main()
