@@ -53,8 +53,12 @@ def main():
         activity = investmentInfo['activity']
 
         amount = transaction['amount']
+        
+        # InvestmentTransaction
+        investmentTransaction = investmentInfo['transaction']
+        quantity = investmentTransaction['quantity']
 
-        print '        ', accountName, '\t', date, '\t', activity['label'], '\t', amount
+        print '        ', accountName, '\t', date, '\t', activity['label'], '\t', quantity, '\t', amount
         # print '        ', transaction
 
 

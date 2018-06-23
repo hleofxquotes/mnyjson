@@ -50,7 +50,10 @@ def main():
         activity = investmentInfo['activity']
         security = investmentInfo['security']
         amount = transaction['amount']
-        print '  ', date, '\t', activity['label'], '\t', security['name'], '\t', amount
+        # InvestmentTransaction
+        investmentTransaction = investmentInfo['transaction']
+        quantity = investmentTransaction['quantity']
+        print '  ', date, '\t', activity['label'], '\t', security['name'], '\t', quantity, '\t', amount
 
 if __name__ == "__main__":
     main()
