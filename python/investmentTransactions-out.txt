@@ -1,0 +1,114 @@
+---
+Number of accounts:  23
+---
+# Charlie & May’s Joint Investment 	INVESTMENT 	11 	19818.6
+   2006-01-30T08:00:00.000+0000 	Buy 	Microsoft 	200.0 	4300.0
+   2006-07-15T07:00:00.000+0000 	Buy 	White Oak Growth Stock 	40.0 	1524.4
+   2007-01-01T08:00:00.000+0000 	Add Shares 	Oakmark Fund 	100.0 	4378.0
+   2007-01-01T08:00:00.000+0000 	Add Shares 	White Oak Growth Stock 	100.0 	3600.0
+   2007-01-01T08:00:00.000+0000 	Add Shares 	Toys R Us 	100.0 	2617.0
+   2007-01-01T08:00:00.000+0000 	Add Shares 	McDonalds 	100.0 	3507.0
+   2007-01-01T08:00:00.000+0000 	Add Shares 	Walt Disney Company 	100.0 	3507.0
+   2007-01-01T08:00:00.000+0000 	Buy 	Walt Disney Company 	15.0 	623.5
+   2007-01-01T08:00:00.000+0000 	Buy 	Toys R Us 	25.0 	717.75
+   2007-01-01T08:00:00.000+0000 	Buy 	McDonalds 	20.0 	778.0
+   2007-01-01T08:00:00.000+0000 	Buy 	Oakmark Fund 	45.0 	2060.5
+# Charlie's 401(k) 	INVESTMENT 	5 	38288.57
+   2006-07-01T07:00:00.000+0000 	Add Shares 	Litware, Inc. 	156.0 	3416.4
+   2006-07-15T07:00:00.000+0000 	Add Shares 	Trey Research 	12.0 	11928.0
+   2006-09-15T07:00:00.000+0000 	Add Shares 	Lucerne Publishing 	527.0 	5870.78
+   2007-03-30T07:00:00.000+0000 	Buy 	Microsoft 	44.0 	1034.0
+   2007-07-15T07:00:00.000+0000 	Add Shares 	Wide World Importers 	2500.0 	2500.0
+# Commodities 	INVESTMENT 	2 	9000.0
+   2007-04-30T07:00:00.000+0000 	Buy 	Heating Oil 	1000.0 	1910.0
+   2007-04-30T07:00:00.000+0000 	Buy 	Gold 	10.0 	6835.0
+# ETF Brokerage Account 	INVESTMENT 	6 	3350.0
+   2007-01-30T08:00:00.000+0000 	Buy 	Contoso Exchange Traded Fund 	50.0 	1250.0
+   2007-04-10T07:00:00.000+0000 	Dividend 	Contoso Exchange Traded Fund 	None 	-75.0
+   2007-07-10T07:00:00.000+0000 	Dividend 	Contoso Exchange Traded Fund 	None 	-75.0
+   2007-10-10T07:00:00.000+0000 	Dividend 	Contoso Exchange Traded Fund 	None 	-75.0
+   2008-01-10T08:00:00.000+0000 	Dividend 	Contoso Exchange Traded Fund 	None 	-75.0
+   2008-02-15T08:00:00.000+0000 	Sell 	Contoso Exchange Traded Fund 	10.0 	-260.0
+# Investments to Watch 	INVESTMENT 	9 	3996.56
+   2000-07-01T07:00:00.000+0000 	Buy 	Standard & Poor's 500 	0.0 	0.0
+   2000-07-01T07:00:00.000+0000 	Buy 	NASDAQ Composite Index 	0.0 	0.0
+   2000-07-01T07:00:00.000+0000 	Buy 	Dow Jones Industrial Average 	0.0 	0.0
+   2000-12-08T08:00:00.000+0000 	Buy 	America Online 	0.0 	0.0
+   2000-12-08T08:00:00.000+0000 	Buy 	Avery Dennison 	0.0 	0.0
+   2000-12-08T08:00:00.000+0000 	Buy 	EBay 	0.0 	0.0
+   2001-12-31T08:00:00.000+0000 	Buy 	Adatum Corp 	110.25 	0.0
+   2002-08-23T07:00:00.000+0000 	Buy 	emc 	0.0 	0.0
+   2002-08-23T07:00:00.000+0000 	Buy 	Standard & Poor's Healthcare 	0.0 	0.0
+# WoodGrove Finance Stock Options 	INVESTMENT 	12 	0.0
+   2006-04-25T07:00:00.000+0000 	Grant 	WoodGrove Bank Stock 2006 Grant 	1000.0 	0.0
+   2007-04-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2007-10-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2008-04-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2008-10-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2009-04-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2009-10-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2010-04-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2010-10-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2011-04-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2011-10-25T07:00:00.000+0000 	Vest 	WoodGrove Bank Stock 2006 Grant 	100.0 	0.0
+   2016-04-25T07:00:00.000+0000 	Expire (ESOs) 	WoodGrove Bank Stock 2006 Grant 	1000.0 	0.0
+# Woodgrove Bond Account 	INVESTMENT 	14 	4244.65
+   2001-08-16T07:00:00.000+0000 	Buy 	Proseware, Inc. 	1000.0 	1018.53
+   2002-02-13T08:00:00.000+0000 	Interest 	Proseware, Inc. 	None 	-320.0
+   2002-07-02T07:00:00.000+0000 	Buy 	Woodgrove Money Market 	5024.66 	5024.66
+   2002-08-16T07:00:00.000+0000 	Buy 	The Phone Company 	20000.0 	20614.85
+   2002-08-16T07:00:00.000+0000 	Buy 	Wide World Importers 	10000.0 	10020.0
+   2002-08-16T07:00:00.000+0000 	Interest 	Proseware, Inc. 	None 	-320.0
+   2002-08-30T07:00:00.000+0000 	Interest 	Wide World Importers 	None 	-345.0
+   2002-10-12T07:00:00.000+0000 	Interest 	The Phone Company 	None 	-745.0
+   2003-03-02T08:00:00.000+0000 	Interest 	Wide World Importers 	None 	-345.0
+   2003-04-13T07:00:00.000+0000 	Interest 	The Phone Company 	None 	-745.0
+   2003-04-23T07:00:00.000+0000 	Buy 	New Bond 	10000.0 	10155.0
+   2003-05-16T07:00:00.000+0000 	Dividend 	Blue Yonder Airlines 	None 	-1172.5
+   2003-07-17T07:00:00.000+0000 	Buy 	Wingtip Toys 	15000.0 	16130.16
+   2003-07-17T07:00:00.000+0000 	Interest 	Loan Banks 	None 	-1054.5
+# Woodgrove Investments 	INVESTMENT 	44 	5978.92
+   2000-08-19T07:00:00.000+0000 	Buy 	Contoso Pharmaceuticals 	800.0 	19939.0
+   2001-02-27T08:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2001-03-08T08:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-36.0
+   2001-05-30T07:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2001-05-31T07:00:00.000+0000 	Dividend 	Litware, Inc. 	None 	-1069.04
+   2001-06-06T07:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-36.0
+   2001-06-30T07:00:00.000+0000 	Buy 	Microsoft 	86.0 	2983.34
+   2001-08-31T07:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2001-09-07T07:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-44.0
+   2001-11-29T08:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2001-12-06T08:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-44.0
+   2001-12-31T08:00:00.000+0000 	Buy 	Microsoft 	54.0 	2867.4
+   2002-03-01T08:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2002-03-08T08:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-44.0
+   2002-03-24T08:00:00.000+0000 	Sell 	Microsoft 	60.0 	-6130.0
+   2002-06-01T07:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2002-06-08T07:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-44.0
+   2002-06-30T07:00:00.000+0000 	Buy 	Microsoft 	53.0 	2953.69
+   2002-07-02T07:00:00.000+0000 	Buy 	Contoso Pharmaceuticals 	50.0 	6530.0
+   2002-07-02T07:00:00.000+0000 	Buy 	Coho Winery 	100.0 	4220.0
+   2002-07-19T07:00:00.000+0000 	Sell 	Microsoft 	100.0 	-15379.48
+   2002-08-22T07:00:00.000+0000 	Buy 	Fabrikam, Inc. 	100.0 	2400.0
+   2002-08-31T07:00:00.000+0000 	Dividend 	Litware, Inc. 	None 	-1041.2
+   2002-09-03T07:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2002-09-05T07:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-56.0
+   2002-11-29T08:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2002-11-30T08:00:00.000+0000 	Dividend 	Litware, Inc. 	None 	-941.24
+   2002-12-06T08:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-55.0
+   2003-02-28T08:00:00.000+0000 	Dividend 	Litware, Inc. 	None 	-1011.12
+   2003-03-01T08:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2003-03-08T08:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-58.0
+   2003-05-02T07:00:00.000+0000 	Sell 	Microsoft 	30.0 	-9272.5
+   2003-05-21T07:00:00.000+0000 	Buy 	Coho Winery 	150.0 	6225.0
+   2003-05-31T07:00:00.000+0000 	Dividend 	Litware, Inc. 	None 	-1123.23
+   2003-06-01T07:00:00.000+0000 	Dividend 	Consolidated Messengers 	None 	-292.5
+   2003-06-08T07:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-64.0
+   2003-06-10T07:00:00.000+0000 	Buy 	Fabrikam, Inc. 	50.0 	1175.0
+   2004-12-30T08:00:00.000+0000 	Add Shares 	Woodgrove Money Market Fund 	8345.0 	0.0
+   2005-01-01T08:00:00.000+0000 	Sell 	Woodgrove Money Market Fund 	8345.0 	-8345.0
+   2005-01-14T08:00:00.000+0000 	Dividend 	Woodgrove Money Market Fund 	None 	-51.28
+   2005-01-15T08:00:00.000+0000 	Buy 	Woodgrove Money Market Fund 	51.28 	51.28
+   2005-01-16T08:00:00.000+0000 	Dividend 	Contoso Pharmaceuticals 	None 	-35.0
+   2005-01-17T08:00:00.000+0000 	Buy 	Woodgrove Money Market Fund 	35.0 	35.0
+   2005-01-30T08:00:00.000+0000 	Remove Shares 	Contoso Pharmaceuticals 	800.0 	0.0
