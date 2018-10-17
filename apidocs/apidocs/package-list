@@ -1,0 +1,15 @@
+com.hungle.sunriise.account
+com.hungle.sunriise.account.tax
+com.hungle.sunriise.backup
+com.hungle.sunriise.dbcheck
+com.hungle.sunriise.dbutil
+com.hungle.sunriise.gui
+com.hungle.sunriise.io
+com.hungle.sunriise.io.sample
+com.hungle.sunriise.json
+com.hungle.sunriise.mnyobject
+com.hungle.sunriise.mnyobject.impl
+com.hungle.sunriise.mnystat
+com.hungle.sunriise.prices
+com.hungle.sunriise.query
+com.hungle.sunriise.util
